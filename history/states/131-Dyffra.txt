@@ -1,0 +1,15 @@
+state={
+	id=131
+	name="STATE_131"
+        history = {
+        add_core_of=VIC       
+        owner=VIC 
+        }
+	provinces={
+		462 813 817 1854 2365 2375 2507 3125 3290 4694 4717 4726 4757 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=2700000
+        state_category = large_town
+}

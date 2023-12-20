@@ -1,0 +1,146 @@
+#reload countrycolors
+
+SKE = {
+	color = rgb { 128 0 255 }
+	color_ui  = rgb { 128 0 255 }
+}
+
+TEM = {
+	color = rgb { 36 88 171 }
+	color_ui  = rgb { 36 88 171 }
+}
+
+RED = {
+	color = rgb { 184 20 20 }
+	color_ui  = rgb { 184 20 20 }
+}
+
+KAE = {
+	color = rgb { 66  113  69 }
+	color_ui  = rgb { 66  113  69 }
+}
+
+AED = {
+	color = rgb { 255 204 0 }
+	color_ui  = rgb { 255 204 0 }
+}
+
+LYR = {
+	color = rgb { 205 198 0 }
+	color_ui  = rgb { 205 198 0 }
+}
+
+MHK = {
+	color = rgb { 94 118 171 }
+	color_ui  = rgb { 94 118 171 }
+}
+
+HEN = {
+	color = rgb { 183 8 236 }
+	color_ui  = rgb { 183 8 236 }
+}
+
+KOV = {
+	color = rgb { 226 139 7 }
+	color_ui  = rgb { 226 139 7 }
+}
+
+BRO = {
+	color = rgb { 60 158 60 }
+	color_ui  = rgb { 60 158 60 }
+}
+
+NOV = {
+	color = rgb { 177 89 6 }
+	color_ui  = rgb { 177 89 6 }
+}
+
+CIN = {
+	color = rgb { 8 189 233 }
+	color_ui  = rgb { 8 189 233 }
+}
+
+ANG = {
+	color = rgb { 36 103 12 }
+	color_ui  = rgb { 36 103 12 }
+}
+
+SOD = {
+	color = rgb { 5 180 127 }
+	color_ui  = rgb { 5 180 127 }
+}
+
+CID = {
+	color = rgb { 231 135 146 }
+	color_ui  = rgb { 231 135 146 }
+}
+
+KER = {
+	color = rgb { 131 202 199 }
+	color_ui  = rgb { 131 202 199 }
+}
+
+VER = {
+	color = rgb { 230 243 56 }
+	color_ui  = rgb { 230 243 56 }
+}
+
+BRU = {
+	color = rgb { 94 118 171 }
+	color_ui  = rgb { 94 118 171 }
+}
+
+TOU = {
+	color = rgb { 185 9 48 }
+	color_ui  = rgb { 185 9 48 }
+}
+
+NIL = {
+	color = rgb { 82 82 82 }
+	color_ui  = rgb { 82 82 82 }
+}
+
+VIC = {
+	color = rgb { 120 120 120 }
+	color_ui  = rgb { 120 120 120 }
+}
+
+ETO = {
+	color = rgb { 120 120 120 }
+	color_ui  = rgb { 120 120 120 }
+}
+
+NAZ = {
+	color = rgb { 120 120 120 }
+	color_ui  = rgb { 120 120 120 }
+}
+
+EBB = {
+	color = rgb { 209 135 135 }
+	color_ui  = rgb { 209 135 135 }
+}
+
+GEM = {
+	color = rgb { 120 120 120 }
+	color_ui  = rgb { 120 120 120 }
+}
+
+MCH = {
+	color = rgb { 120 120 120 }
+	color_ui  = rgb { 120 120 120 }
+}
+
+MET = {
+	color = rgb { 120 120 120 }
+	color_ui  = rgb { 120 120 120 }
+}
+
+GHE = {
+	color = rgb { 120 120 120 }
+	color_ui  = rgb { 120 120 120 }
+}
+
+MAG = {
+	color = rgb { 120 120 120 }
+	color_ui  = rgb { 120 120 120 }
+}

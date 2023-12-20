@@ -1,0 +1,11 @@
+state={
+	id=349
+	name="STATE_349"
+	provinces={
+		469 1559 1740 2279 3766 3774 3795 3806 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=31000
+        state_category = pastoral
+}

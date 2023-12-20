@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_portrait_bro_eithne"
+		texturefile = "gfx/leaders/BRO/eithne.dds"
+	}
+}

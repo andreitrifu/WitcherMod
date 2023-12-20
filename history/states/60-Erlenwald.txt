@@ -1,0 +1,15 @@
+state={
+	id=60
+	name="STATE_60"
+        history = {
+        add_core_of =CIN        
+        owner=CIN 
+        }
+	provinces={
+		480 745 1730 2555 4259 4262 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=750000
+        state_category = rural
+}

@@ -1,0 +1,15 @@
+state={
+	id=122
+	name="STATE_122"
+        history = {
+        add_core_of=MCH       
+        owner=MCH 
+        }
+	provinces={
+		537 1126 1719 1789 2115 2146 2582 2710 2749 2866 3277 3458 4648 4651 4663 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=1700000
+        state_category = town
+}

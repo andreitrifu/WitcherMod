@@ -1,0 +1,15 @@
+state={
+	id=98
+	name="STATE_98"
+        history = {
+        add_core_of =NAZ      
+        owner=NAZ 
+        }
+	provinces={
+		93 232 1004 1500 2308 4356 4375 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=1200000
+        state_category = town
+}

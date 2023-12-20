@@ -1,0 +1,15 @@
+state={
+	id=57
+	name="STATE_57"
+        history = {
+        add_core_of =CIN        
+        owner=CIN 
+        }
+	provinces={
+		460 1889 2025 3577 4299 4315 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=415000
+        state_category = pastoral
+}

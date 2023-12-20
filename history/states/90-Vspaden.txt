@@ -1,0 +1,15 @@
+state={
+	id=90
+	name="STATE_90"
+        history = {
+        add_core_of =KAE       
+        owner=KAE
+        }
+	provinces={
+		245 1011 1419 2337 3803 3832 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=1700000
+        state_category = town
+}

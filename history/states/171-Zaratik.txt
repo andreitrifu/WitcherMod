@@ -1,0 +1,11 @@
+state={
+	id=171
+	name="STATE_171"
+	provinces={
+		18 65 72 95 181 203 376 438 453 759 802 1274 1371 1410 1420 1640 1647 2020 2094 2224 2471 2658 2924 3360 3439 3483 3494 3559 3648 4434 4473 4476 4487 4491 4506 4507 4524 4539 4544 4564 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=530
+        state_category = wasteland
+}

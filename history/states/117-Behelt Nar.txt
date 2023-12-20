@@ -1,0 +1,15 @@
+state={
+	id=117
+	name="STATE_117"
+        history = {
+        add_core_of =MAG      
+        owner=MAG 
+        }
+	provinces={
+		264 634 865 1215 1723 2815 3384 4295 4308 4338 4349 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=220000
+        state_category = pastoral
+}

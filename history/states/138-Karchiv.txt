@@ -1,0 +1,15 @@
+state={
+	id=138
+	name="STATE_138"
+        history = {
+        add_core_of =GEM      
+        owner=GEM
+        }
+	provinces={
+		765 919 1661 1823 2746 3243 3247 4666 4680 4681 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=1900000
+        state_category = large_town
+}

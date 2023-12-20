@@ -1,0 +1,16 @@
+characters={
+	NOV_hierarch_hemmelfart={
+		name=NOV_CHARACTER_HIERARCH_HEMMELFART
+		portraits={
+			civilian={
+				large="GFX_portrait_nov_hierarch_hemmelfart"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = { nationalist_symbol }
+			desc = NOV_HIERARCH_HEMMELFART_DESC
+			expire="1965.1.1.1"
+		}
+	}
+}

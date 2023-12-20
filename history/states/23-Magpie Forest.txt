@@ -1,0 +1,22 @@
+
+state={
+	id=23
+	name="STATE_23"
+        history = {
+        add_core_of =TEM         
+        owner=TEM
+        victory_points ={4062 2}
+        victory_points ={4045 1}
+        buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+        }
+	provinces={
+		233 838 907 1636 1983 2500 2728 3158 3595 4045 4054 4056 4062 4082 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=450000
+        state_category = rural
+}

@@ -1,0 +1,15 @@
+state={
+	id=52
+	name="STATE_52"
+        history = {
+        add_core_of =LYR       
+        owner=LYR 
+        } 
+	provinces={
+		443 973 1117 3093 4120 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=1150000
+        state_category = rural
+}

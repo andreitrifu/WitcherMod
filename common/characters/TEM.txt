@@ -1,0 +1,348 @@
+characters={
+       TEM_king_foltest={
+		name=TEM_CHARACTER_KING_FOLTEST
+		portraits={
+			civilian={
+				large="GFX_portrait_tem_king_foltest"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = { indomitable_perseverance hedonist }
+			desc = TEM_KING_FOLTEST_DESC
+			expire="1965.1.1.1"
+		}
+	  }
+        TEM_vernon_roche={
+		name=TEM_CHARACTER_VERNON_ROCHE
+		portraits={
+			army={
+				large="GFX_portrait_tem_vernon_roche"
+			}
+			army={
+				small="GFX_portrait_tem_vernon_roche_small"
+			}
+		}
+		advisor = {
+			slot = high_command
+			idea_token = TEM_vernon_roche
+			allowed = {
+				tag = TEM
+			}
+			traits = {
+				army_commando_3
+			}
+			cost = 200
+			ai_will_do = {
+				base = 1.000
+			}
+		}
+		corps_commander={
+			traits={ commando ranger}
+			skill=4
+			attack_skill=4
+			defense_skill=3
+			planning_skill=4
+			logistics_skill=4
+			legacy_id=0
+		}
+	  }
+	  TEM_thaler={
+		name=TEM_CHARACTER_THALER
+		portraits={
+			army={
+				large="GFX_portrait_tem_thaler"
+			}
+			army={
+				small="GFX_portrait_tem_thaler_small"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = TEM_thaler
+			allowed = {
+				tag = TEM
+			}
+			traits = {
+				head_of_intelligence 
+			}
+			cost = 150
+			ai_will_do = {
+				base = 1.000
+			}
+		}
+	  }
+	  TEM_triss_merigold={
+		name=TEM_CHARACTER_TRISS_MERIGOLD
+		portraits={
+			army={
+				large="GFX_portrait_tem_triss_merigold"
+			}
+			army={
+				small="GFX_portrait_tem_triss_merigold_small"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = TEM_triss_merigold
+			allowed = {
+				tag = TEM
+			}
+			traits = {
+				backroom_backstabber
+			}
+			cost = 150
+			ai_will_do = {
+				base = 1.000
+			}
+		}
+		advisor = {
+			slot = high_command
+			idea_token = TEM_triss_merigold
+			allowed = {
+				tag = TEM
+			}
+			traits = {
+				army_concealment_2
+			}
+			cost = 150
+			ai_will_do = {
+				base = 1.000
+			}
+		}
+	  }
+	  TEM_john_natalis={
+		name=TEM_CHARACTER_JOHN_NATALIS
+		portraits={
+			civilian={
+				small="GFX_portrait_tem_john_natalis_small"
+			}
+			army={
+				large=GFX_portrait_tem_john_natalis
+			}
+		}
+		advisor={
+			slot = army_chief
+			idea_token = TEM_john_natalis
+			allowed = {
+				tag=TEM
+			}
+			traits = {
+				army_chief_entrenchment_2
+			}
+			cost = 150
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+		
+		field_marshal={
+			traits={ defensive_doctrine unyielding_defender }
+			skill=4
+			attack_skill=3
+			defense_skill=4
+			planning_skill=4
+			logistics_skill=3
+			legacy_id=0
+		}
+	}	
+	TEM_dandelion={
+		name=TEM_CHARACTER_DANDELION
+		portraits={
+			army={
+				large="GFX_portrait_tem_dandelion"
+			}
+			army={
+				small="GFX_portrait_tem_dandelion_small"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = TEM_dandelion
+			allowed = {
+				tag = TEM
+			}
+			traits = {
+				compassionate_gentleman
+			}
+			cost = 150
+			ai_will_do = {
+				base = 1.000
+			}
+		}
+	}
+	TEM_keira_metz={
+		name=TEM_CHARACTER_KEIRA_METZ
+		portraits={
+			army={
+				large="GFX_portrait_tem_keira_metz"
+			}
+			army={
+				small="GFX_portrait_tem_keira_metz_small"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = TEM_keira_metz
+			allowed = {
+				tag = TEM
+			}
+			traits = {
+				communist_revolutionary
+			}
+			cost = 150
+			ai_will_do = {
+				base = 1.000
+			}
+		}
+	}  
+	TEM_velerad={
+		name=TEM_CHARACTER_VELERAD
+		portraits={
+			army={
+				large="GFX_portrait_tem_velerad"
+			}
+			army={
+				small="GFX_portrait_tem_velerad_small"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = TEM_velerad
+			allowed = {
+				tag = TEM
+			}
+			traits = {
+				captain_of_industry
+			}
+			cost = 150
+			ai_will_do = {
+				base = 1.000
+			}
+		}
+	}  
+	TEM_aryan_la_valette={
+		name=TEM_CHARACTER_ARYAN_LA_VALETTE
+		portraits={
+			army={
+				large="GFX_portrait_tem_aryan_la_valette"
+			}
+			army={
+				small="GFX_portrait_tem_aryan_la_valette_small"
+			}
+		}
+		advisor = {
+			slot = high_command
+			idea_token = TEM_aryan_la_valette
+			allowed = {
+				tag = TEM
+			}
+			traits = {
+				army_infantry_2
+			}
+			cost = 150
+			ai_will_do = {
+				base = 1.000
+			}
+		}
+		corps_commander={
+			traits={ trickster infantry_leader}
+			skill=3
+			attack_skill=2
+			defense_skill=3
+			planning_skill=3
+			logistics_skill=3
+			legacy_id=0
+		}
+	}
+	TEM_ravanen_kimbolt={
+		name=TEM_CHARACTER_RAVANEN_KIMBOLT
+		portraits={
+			army={
+				large="GFX_portrait_tem_ravanen_kimbolt"
+			}
+			army={
+				small="GFX_portrait_tem_ravanen_kimbolt_small"
+			}
+		}
+		advisor={
+			cost = 150			
+			slot = theorist
+			idea_token = TEM_ravanen_kimbolt
+			ledger = army
+				allowed = {
+					tag = TEM
+				}
+				
+				traits = {
+					grand_battle_plan_expert
+				}
+				ai_will_do = {
+			     factor =1.0
+			    }
+		}
+		field_marshal={
+			traits={ war_hero inflexible_strategist}
+			skill=3
+			attack_skill=3
+			defense_skill=3
+			planning_skill=4
+			logistics_skill=3
+			legacy_id=0
+		}
+	}
+	TEM_siegfried_of_denesle={
+		name=TEM_CHARACTER_SIEGFRIED_OF_DENESLE
+		portraits={
+			army={
+				large="GFX_portrait_tem_siegfried_of_denesle"
+			}
+			army={
+				small="GFX_portrait_tem_siegfried_of_denesle_small"
+			}
+		}
+		advisor = {
+			slot = high_command
+			idea_token = TEM_siegfried_of_denesle
+			allowed = {
+				tag = TEM
+			}
+			traits = {
+				army_regrouping_2
+			}
+			cost = 150
+			ai_will_do = {
+				base = 1.000
+			}
+		}
+		corps_commander={
+			traits={ organizer urban_assault_specialist}
+			skill=3
+			attack_skill=3
+			defense_skill=2
+			planning_skill=3
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+	TEM_phillip_strenger={
+		name=TEM_CHARACTER_PHILLIP_STRENGER
+		portraits={
+			army={
+				large="GFX_portrait_tem_phillip_strenger"
+			}
+			army={
+				small="GFX_portrait_tem_phillip_strenger_small"
+			}
+		}
+		corps_commander={
+			traits={swamp_fox}
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+}

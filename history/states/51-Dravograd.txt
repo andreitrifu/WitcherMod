@@ -1,0 +1,15 @@
+state={
+	id=51
+	name="STATE_51"
+        history = {
+        add_core_of =LYR       
+        owner=LYR 
+        }
+	provinces={
+		2080 2277 2536 3175 3407 3491 3497 4097 4139 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=1260000
+        state_category = town
+}

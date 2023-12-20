@@ -1,0 +1,16 @@
+characters={
+	BRO_eithne={
+		name=BRO_CHARACTER_EITHNE
+		portraits={
+			civilian={
+				large="GFX_portrait_bro_eithne"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = { nationalist_symbol }
+			desc = BRO_EITHNE_DESC
+			expire="1965.1.1.1"
+		}
+	}
+}

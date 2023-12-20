@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_portrait_nil_emperor_emhyr_var_emreis"
+		texturefile = "gfx/leaders/NIL/emperor_emhyr_var_emreis.dds"
+	}
+}

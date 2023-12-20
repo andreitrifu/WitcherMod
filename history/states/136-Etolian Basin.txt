@@ -1,0 +1,15 @@
+state={
+	id=136
+	name="STATE_136"
+        history = {
+        add_core_of=ETO      
+        owner=ETO 
+        }
+	provinces={
+		1208 1887 2338 2473 2560 2808 3576 4686 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=1000000
+        state_category = rural
+}

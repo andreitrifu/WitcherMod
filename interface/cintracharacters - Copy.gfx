@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_portrait_cin_queen_calanthe"
+		texturefile = "gfx/leaders/CIN/queen_calanthe.dds"
+	}
+}

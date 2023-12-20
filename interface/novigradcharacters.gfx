@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_portrait_nov_hierarch_hemmelfart"
+		texturefile = "gfx/leaders/NOV/hierarch_hemmelfart.dds"
+	}
+}

@@ -1,0 +1,11 @@
+state={
+	id=222
+	name="STATE_222"
+	provinces={
+		485 489 701 830 1414 1800 2018 2087 2253 2357 2376 2598 3197 3317 3414 3443 3489 4949 4954 4971 4972 4988 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=380000
+        state_category = rural
+}

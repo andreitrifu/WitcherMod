@@ -1,0 +1,15 @@
+state={
+	id=118
+	name="STATE_118"
+        history = {
+        add_core_of =MAG      
+        owner=MAG 
+        }
+	provinces={
+		175 432 730 962 1770 1824 1976 2887 2945 4352 4377 4380 4396 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=1100000
+        state_category = rural
+}

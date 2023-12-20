@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_portrait_ker_king_belohun"
+		texturefile = "gfx/leaders/KER/king_belohun.dds"
+	}
+}

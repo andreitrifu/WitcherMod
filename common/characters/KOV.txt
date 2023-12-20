@@ -1,0 +1,16 @@
+characters={
+	KOV_esterad_thyssen={
+		name=KOV_CHARACTER_ESTERAD_THYSSEN
+		portraits={
+			civilian={
+				large="GFX_portrait_kov_esterad_thyssen"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = { nationalist_symbol }
+			desc = KOV_ESTERAD_THYSSEN_DESC
+			expire="1965.1.1.1"
+		}
+	}
+}

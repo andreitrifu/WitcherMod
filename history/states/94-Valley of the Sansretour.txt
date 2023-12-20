@@ -1,0 +1,15 @@
+state={
+	id=94
+	name="STATE_94"
+        history = {
+        add_core_of =TOU       
+        owner=TOU
+        }
+	provinces={
+		1384 2069 2364 2751 4267 4277 4286 4310 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=2000000
+        state_category = town
+}

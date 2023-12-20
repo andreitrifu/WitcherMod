@@ -1,0 +1,8 @@
+difficulty_settings = {
+	difficulty_setting = {
+		key = "Boost Skellige"
+		modifier = diff_strong_ai_generic
+		countries = { SKE }
+		multiplier = 2.0
+	}
+}

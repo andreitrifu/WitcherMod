@@ -1,0 +1,15 @@
+state={
+	id=125
+	name="STATE_125"
+        history = {
+        add_core_of=MCH       
+        owner=MCH 
+        }
+	provinces={
+		64 96 536 1649 1699 2294 2458 4598 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=870000
+        state_category = rural
+}

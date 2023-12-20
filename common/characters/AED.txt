@@ -1,0 +1,16 @@
+characters={
+	AED_king_demavend_III={
+		name=AED_CHARACTER_KING_DEMAVEND_III
+		portraits={
+			civilian={
+				large="GFX_portrait_aed_king_demavend_III"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = { nationalist_symbol }
+			desc = AED_KING_DEMAVEND_III_DESC
+			expire="1965.1.1.1"
+		}
+	}
+}

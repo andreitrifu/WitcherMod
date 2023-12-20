@@ -1,0 +1,11 @@
+state={
+	id=370
+	name="STATE_370"
+	provinces={
+		339 357 984 1145 1227 1745 2329 2550 5067 5076 5079 5106 5113 5123 5148 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=95000
+        state_category = pastoral
+}

@@ -1,0 +1,15 @@
+state={
+	id=116
+	name="STATE_116"
+        history = {
+        add_core_of =MET      
+        owner=MET 
+        }
+	provinces={
+		55 1303 1515 2076 2285 2462 3665 3681 4402 4430 4451 4457 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=2000000
+        state_category = town
+}

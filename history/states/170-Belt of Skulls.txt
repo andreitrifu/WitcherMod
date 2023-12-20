@@ -1,0 +1,11 @@
+state={
+	id=170
+	name="STATE_170"
+	provinces={
+		332 400 544 572 705 994 1574 1612 1747 1819 1886 1948 1970 1973 2026 2054 2147 2158 2175 2179 2359 2392 3142 3178 3378 3493 4325 4329 4351 4353 4362 4369 4374 4391 4394 4401 4404 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=854
+        state_category = wasteland
+}

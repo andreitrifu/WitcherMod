@@ -1,0 +1,16 @@
+characters={
+	HEN_niedamir={
+		name=HEN_CHARACTER_NIEDAMIR
+		portraits={
+			civilian={
+				large="GFX_portrait_hen_niedamir"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = { nationalist_symbol }
+			desc = HEN_NIEDAMIR_DESC
+			expire="1965.1.1.1"
+		}
+	}
+}

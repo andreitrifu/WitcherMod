@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_portrait_aed_king_demavend_III"
+		texturefile = "gfx/leaders/AED/king_demavend_III.dds"
+	}
+}

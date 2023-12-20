@@ -1,0 +1,16 @@
+characters={
+	LYR_queen_meve={
+		name=LYR_CHARACTER_QUEEN_MEVE
+		portraits={
+			civilian={
+				large="GFX_portrait_lyr_queen_meve"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = { nationalist_symbol }
+			desc = LYR_QUEEN_MEVE_DESC
+			expire="1965.1.1.1"
+		}
+	}
+}

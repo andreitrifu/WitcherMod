@@ -1,0 +1,15 @@
+state={
+	id=54
+	name="STATE_54"
+        history = {
+        add_core_of =SOD       
+        owner=SOD
+        }
+	provinces={
+		1704 2121 2467 2807 3425 3630 3676 4203 4227 4235 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=1400000
+        state_category = town
+}

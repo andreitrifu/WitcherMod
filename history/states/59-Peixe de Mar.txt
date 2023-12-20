@@ -1,0 +1,15 @@
+state={
+	id=59
+	name="STATE_59"
+        history = {
+        add_core_of =CIN        
+        owner=CIN 
+        }
+	provinces={
+		5395 5396 5397 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=211600
+        state_category = small_island
+}

@@ -1,0 +1,15 @@
+state={
+	id=21
+	name="STATE_21"
+        history = {
+        add_core_of =VER      
+        owner=VER
+        }
+	provinces={
+		1474 2313 2602 3478 4166 4169 4170 4171 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=1960000
+        state_category = large_town
+}

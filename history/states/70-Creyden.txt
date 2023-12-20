@@ -1,0 +1,15 @@
+state={
+	id=70
+	name="STATE_70"
+        history = {
+        add_core_of =HEN       
+        owner=HEN 
+        }
+	provinces={
+		1265 1272 1391 2174 2482 2780 3822 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=2750000
+        state_category = city
+}

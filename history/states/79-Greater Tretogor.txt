@@ -1,0 +1,21 @@
+state={
+	id=79
+	name="STATE_79"
+        history = {
+        add_core_of =RED        
+        owner=RED
+        victory_points ={832 50}
+        buildings = {
+			infrastructure = 2
+			industrial_complex = 1	
+                        dockyard=1		
+		}
+        }
+	provinces={
+		568 832 2401 2774 3241 3449 3917 3926 3931 3934 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=6500000
+        state_category = large_city
+}

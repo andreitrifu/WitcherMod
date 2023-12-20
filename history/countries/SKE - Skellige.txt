@@ -1,0 +1,74 @@
+capital = 8
+
+set_stability = 0.8
+set_war_support = 0.7
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_recon = 1
+	gw_artillery = 1	
+	basic_train = 1
+	trench_warfare = 1
+	fuel_silos = 1
+
+	fleet_in_being = 1
+}
+
+recruit_character=SKE_eist_tuirseach
+recruit_character=SKE_harald_an_tordarroch
+recruit_character=SKE_crach_an_craite
+recruit_character=SKE_holger_blackhand
+recruit_character=SKE_bran_tuirseach
+recruit_character=SKE_donar_an_hindar
+recruit_character=SKE_birna_bran
+recruit_character=SKE_madman_lugos
+recruit_character=SKE_udalryk_an_brokvar
+recruit_character=SKE_draig_bon-dhu
+recruit_character=SKE_ermion
+
+set_research_slots = 3
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1935.11.8"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 10
+	communism = 5
+	fascism = 20
+	neutrality = 65
+}
+
+#create_country_leader = {
+#	name = "Eist Tuirseach"
+#	desc = ""
+#	picture = "eist_tuirseach.dds"
+#	expire = "1979.2.20"
+#	ideology = despotism
+#	traits = {
+#	}
+#}
+
+1939.1.1 ={
+     set_politics = {
+	ruling_party = neutrality
+	last_election = "1935.11.8"
+	election_frequency = 48
+	elections_allowed = no
+     }
+
+     set_popularities = {
+	democratic = 10
+	fascism = 20
+	neutrality = 70
+     }
+}
+
+set_convoys = 100

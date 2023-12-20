@@ -1,0 +1,15 @@
+state={
+	id=61
+	name="STATE_61"
+        history = {
+        add_core_of =CIN        
+        owner=CIN 
+        }
+	provinces={
+		3436 3457 4202 4220 4228 4238 4241 4243 5392 5393 5394 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower = 4305000
+        state_category = large_city
+}

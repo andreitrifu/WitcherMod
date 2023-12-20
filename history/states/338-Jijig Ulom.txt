@@ -1,0 +1,11 @@
+state={
+	id=338
+	name="STATE_338"
+	provinces={
+		351 661 810 844 1008 2282 2447 2810 3429 3589 3819 3833 3897 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=240000
+        state_category = pastoral
+}

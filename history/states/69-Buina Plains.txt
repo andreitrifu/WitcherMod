@@ -1,0 +1,15 @@
+state={
+	id=69
+	name="STATE_69"
+        history = {
+        add_core_of =RED        
+        owner=RED
+        }
+	provinces={
+		37 1642 2027 2558 3406 3692 3894 3895 3905 3906 3910 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=1000000
+        state_category = rural
+}

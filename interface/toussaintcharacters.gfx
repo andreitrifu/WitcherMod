@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_portrait_tou_duchess_anna_henrietta"
+		texturefile = "gfx/leaders/TOU/duchess_anna_henrietta.dds"
+	}
+}

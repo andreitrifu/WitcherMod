@@ -1,0 +1,15 @@
+state={
+	id=145
+	name="STATE_145"
+        history = {
+        add_core_of=NIL       
+        owner=NIL 
+        }
+	provinces={
+		107 374 1440 1523 2260 2594 2629 2902 3160 3198 3219 3263 4875 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=990000
+        state_category = rural
+}

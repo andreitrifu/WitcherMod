@@ -1,0 +1,15 @@
+state={
+	id=92
+	name="STATE_92"
+        history = {
+        add_core_of =NAZ      
+        owner=NAZ 
+        }
+	provinces={
+		1153 1240 1289 2159 4282 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=490000
+        state_category = pastoral
+}

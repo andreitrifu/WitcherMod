@@ -1,0 +1,11 @@
+state={
+	id=372
+	name="STATE_372"
+	provinces={
+		230 737 987 1084 1148 1200 1243 1880 2317 2343 2478 2635 2664 2706 3366 5224 5235 5238 5248 5253 5274 5278 5285 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=270000
+        state_category = pastoral
+}

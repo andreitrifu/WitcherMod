@@ -1,0 +1,15 @@
+state={
+	id=25
+	name="STATE_25"
+        history = {
+        add_core_of =BRU      
+        owner=BRU
+        }
+	provinces={
+		1247 1710 2185 3477 3649 4138 4147 4157 4164 4174 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=3100000
+        state_category = city
+}

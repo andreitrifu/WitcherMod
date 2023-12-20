@@ -1,0 +1,14 @@
+state={
+	id=73
+	name="STATE_73"
+        history = {
+        add_core_of =KOV      
+        owner=KOV 
+        }
+	provinces={
+		551 1189 1556 2351 2397 3362 3840 3846 3847 3848 3849 3853 3857 3858 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=4100000
+        state_category = city

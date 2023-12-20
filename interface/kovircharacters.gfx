@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_portrait_kov_esterad_thyssen"
+		texturefile = "gfx/leaders/KOV/esterad_thyssen.dds"
+	}
+}

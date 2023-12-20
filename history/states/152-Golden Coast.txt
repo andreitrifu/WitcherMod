@@ -1,0 +1,15 @@
+state={
+	id=152
+	name="STATE_152" 
+        history = {
+        add_core_of=NIL       
+        owner=NIL 
+        }
+	provinces={
+		29 132 192 212 356 1342 1451 2280 2472 2702 3165 3260 3590 4804 4890 4895 4908 4910 4912 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=1900000
+        state_category = large_town
+}

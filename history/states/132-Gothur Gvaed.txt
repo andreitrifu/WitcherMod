@@ -1,0 +1,15 @@
+state={
+	id=132
+	name="STATE_132"
+        history = {
+        add_core_of =GEM      
+        owner=GEM
+        }
+	provinces={
+		559 1037 1340 1343 2051 2465 3200 3212 3450 4660 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=712000
+        state_category = rural
+}

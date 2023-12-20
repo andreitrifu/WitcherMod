@@ -1,0 +1,11 @@
+state={
+	id=241
+	name="STATE_241"
+	provinces={
+		19 481 561 643 910 943 1051 1136 1267 1651 1670 1703 1865 1898 2150 2202 2379 2607 2709 3581 3618 5055 5075 5080 5087 5112 5130 5134 5146 5160 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=490000
+        state_category = pastoral
+}

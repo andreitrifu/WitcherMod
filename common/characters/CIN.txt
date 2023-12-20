@@ -1,0 +1,16 @@
+characters={
+	CIN_queen_calanthe={
+		name=CIN_CHARACTER_QUEEN_CALANTHE
+		portraits={
+			civilian={
+				large="GFX_portrait_cin_queen_calanthe"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = { nationalist_symbol }
+			desc = CIN_QUEEN_CALANTHE_DESC
+			expire="1965.1.1.1"
+		}
+	}
+}

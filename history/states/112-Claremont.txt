@@ -1,0 +1,15 @@
+state={
+	id=112
+	name="STATE_112"
+        history = {
+        add_core_of =EBB       
+        owner=EBB
+        }
+	provinces={
+		133 281 1466 1472 1964 2603 2818 2966 3584 4580 4592 4605 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=2400000
+        state_category = large_town
+}

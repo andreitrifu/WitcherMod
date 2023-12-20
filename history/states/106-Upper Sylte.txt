@@ -1,0 +1,15 @@
+state={
+	id=106
+	name="STATE_106"
+        history = {
+        add_core_of =MET      
+        owner=MET 
+        }
+	provinces={
+		1111 1186 1852 2223 2588 3203 4435 4441 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=930000
+        state_category = rural
+}

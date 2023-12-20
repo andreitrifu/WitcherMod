@@ -1,0 +1,15 @@
+state={
+	id=120
+	name="STATE_120"
+        history = {
+        add_core_of =GHE       
+        owner=GHE 
+        }
+	provinces={
+		73 125 939 1386 1555 1875 2095 2163 4461 4493 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=1720000
+        state_category = town
+}

@@ -1,0 +1,15 @@
+state={
+	id=97
+	name="STATE_97"
+        history = {
+        add_core_of =NAZ      
+        owner=NAZ 
+        }
+	provinces={
+		1756 1971 2849 3294 4344 4358 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=1300000
+        state_category = rural
+}

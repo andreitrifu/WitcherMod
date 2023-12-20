@@ -1,0 +1,15 @@
+state={
+	id=156
+	name="STATE_156"
+        history = {
+        add_core_of=NIL       
+        owner=NIL 
+        }
+	provinces={
+		527 722 1032 1092 1682 2576 2900 2915 3013 3238 3399 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=550000
+        state_category = pastoral
+}

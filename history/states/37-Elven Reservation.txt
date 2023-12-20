@@ -1,0 +1,15 @@
+state={
+	id=37
+	name="STATE_37"
+        history = {
+        add_core_of =AED       
+        owner=AED
+        }
+	provinces={
+		986 1251 1542 2181 2959 2991 3991 4019 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=3400000
+        state_category = city
+}

@@ -1,0 +1,15 @@
+state={
+	id=82
+	name="STATE_82"
+        history = {
+        add_core_of =RED        
+        owner=RED
+        }
+	provinces={
+		92 1685 3404 3937 3940 3945 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=1240000
+        state_category = town
+}

@@ -1,0 +1,20 @@
+state={
+	id=53
+	name="STATE_53"
+        history = {
+        add_core_of =LYR       
+        owner=LYR 
+        victory_points ={2009 50}
+        buildings = {
+			infrastructure = 2
+			industrial_complex = 1			
+		}
+        }
+	provinces={
+		1003 1350 1385 2009 2162 2644 4075 4090 4107 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=3600000
+        state_category = city
+}

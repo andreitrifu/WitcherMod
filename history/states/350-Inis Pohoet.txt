@@ -1,0 +1,15 @@
+state={
+	id=350
+	name="STATE_350"
+        history = {
+        add_core_of =KOV      
+        owner=KOV 
+        }
+	provinces={
+		5378 5379 5380 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=30000
+        state_category = small_island
+}

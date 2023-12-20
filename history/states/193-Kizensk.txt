@@ -1,0 +1,10 @@
+state={
+	id=193
+	name="STATE_193"
+	provinces={
+		276 301 557 658 812 1300 2907 3227 3279 4069 4101 4124 4146 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=5200000
+        state_category = large_city

@@ -1,0 +1,15 @@
+state={
+	id=142
+	name="STATE_142"
+        history = {
+        add_core_of=NIL       
+        owner=NIL 
+        }
+	provinces={
+		15 23 180 1151 1248 1352 2206 2300 2494 2993 3025 3064 4845 4869 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=3000000
+        state_category = town
+}

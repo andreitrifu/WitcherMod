@@ -1,0 +1,342 @@
+characters={
+	SKE_eist_tuirseach={
+		name=SKE_CHARACTER_EIST_TUIRSEACH
+		portraits={
+			civilian={
+				large="GFX_portrait_ske_eist_tuirseach"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = { nationalist_symbol }
+			desc = SKE_EIST_TUIRSEACH_DESC
+			expire="1965.1.1.1"
+		}
+	}
+    SKE_harald_an_tordarroch={
+		name=SKE_CHARACTER_HARALD_AN_TORDARROCH
+		portraits={
+			civilian={
+				small="GFX_portrait_ske_harald_an_tordarroch"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = SKE_harald_an_tordarroch
+			allowed  = {
+				tag  = SKE
+			}
+			cost =150
+			available = {
+			}
+			traits  = {
+				head_directorate_of_new_buildings 
+			}
+			ai_will_do = {
+			  factor =1.0
+			}
+		}
+	}
+	SKE_crach_an_craite={
+		name=SKE_CHARACTER_CRACH_AN_CRAITE
+		portraits={
+			army={
+				large="GFX_portrait_ske_crach_an_craite"
+			}
+			army={
+				small="GFX_portrait_ske_crach_an_craite_small"
+			}
+		}
+		advisor={
+			cost = 150
+			
+			slot = theorist
+			idea_token = SKE_crach_an_craite
+			ledger = army
+				allowed = {
+					tag = SKE
+				}
+				
+				traits = {
+					military_theorist
+				}
+				ai_will_do = {
+			     factor =1.0
+			    }
+		}
+
+		corps_commander={
+			traits={ trait_reckless war_hero trickster }
+			skill=4
+			attack_skill=5
+			defense_skill=3
+			planning_skill=3
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+	SKE_holger_blackhand={
+		name=SKE_CHARACTER_HOLGER_BLACKHAND
+		portraits={
+			navy={
+				small="GFX_portrait_ske_holger_blackhand_small"
+			}
+			army={
+				large=GFX_portrait_ske_holger_blackhand
+			}
+		}
+		advisor={
+			slot = navy_chief
+			idea_token = SKE_holger_blackhand
+			allowed = {
+				tag=SKE
+			}
+			traits = {
+				navy_chief_reform_2
+			}
+			cost = 150
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+		
+		navy_leader={
+			traits={ navy_career_officer blockade_runner superior_tactician }
+			skill=5
+			attack_skill=4
+			defense_skill=3
+			maneuvering_skill=3
+			coordination_skill=5
+			legacy_id=0
+		}
+	}
+	SKE_bran_tuirseach={
+		name=SKE_CHARACTER_BRAN_TUIRSEACH
+		portraits={
+			navy={
+				small="GFX_portrait_ske_bran_tuirseach_small"
+			}
+			army={
+				large=GFX_portrait_ske_bran_tuirseach
+			}
+		}
+		advisor={
+			slot = army_chief
+			idea_token = SKE_bran_tuirseach
+			allowed = {
+				tag=SKE
+			}
+			traits = {
+				army_chief_maneuver_2
+			}
+			cost = 150
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+		
+		field_marshal={
+			traits={ inflexible_strategist aggressive_assaulter }
+			skill=4
+			attack_skill=5
+			defense_skill=3
+			planning_skill=4
+			logistics_skill=3
+			legacy_id=0
+		}
+	}	
+    SKE_donar_an_hindar={
+		name=SKE_CHARACTER_DONAR_AN_HINDAR
+		portraits={
+			army={
+				large="GFX_portrait_ske_donar_an_hindar"
+			}
+			army={
+				small="GFX_portrait_ske_donar_an_hindar_small"
+			}
+		}
+		advisor={
+			cost = 150
+			
+			slot = political_advisor
+			idea_token = SKE_donar_an_hindar
+			ledger = army
+				allowed = {
+					tag = SKE
+				}
+				
+				traits = {
+					smooth_talking_charmer
+				}
+				ai_will_do = {
+			     factor =1.0
+			    }
+		}
+		corps_commander={
+			traits={ war_hero organizer}
+			skill=3
+			attack_skill=2
+			defense_skill=4
+			planning_skill=4
+			logistics_skill=3
+			legacy_id=0
+		}
+	}
+	SKE_birna_bran={
+		name=SKE_CHARACTER_BIRNA_BRAN
+		portraits={
+			civilian={
+				small="GFX_portrait_ske_birna_bran_small"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = SKE_birna_bran
+			allowed  = {
+				tag  = SKE
+			}
+			cost =150
+			available = {
+			}
+			traits  = {
+				prince_of_terror
+			}
+			ai_will_do = {
+			  factor =1.0
+			}
+		}
+	}
+	SKE_madman_lugos={
+		name=SKE_CHARACTER_MADMAN_LUGOS
+		portraits={
+			army={
+				large="GFX_portrait_ske_madman_lugos"
+			}
+			army={
+				small="GFX_portrait_ske_madman_lugos_small"
+			}
+		}
+		advisor = {
+			slot = high_command
+			idea_token = SKE_madman_lugos
+			allowed = {
+				tag = SKE
+			}
+			traits = {
+				army_artillery_2
+			}
+			cost = 150
+			ai_will_do = {
+				base = 1.000
+			}
+		}
+		corps_commander={
+			traits={ brilliant_strategist trait_reckless }
+			skill=3
+			attack_skill=4
+			defense_skill=2
+			planning_skill=4
+			logistics_skill=3
+			legacy_id=0
+		}
+	}
+	SKE_udalryk_an_brokvar={
+		name=SKE_CHARACTER_UDALRYK_AN_BROKVAR
+		portraits={
+			army={
+				large="GFX_portrait_ske_udalryk_an_brokvar"
+			}
+			army={
+				small="GFX_portrait_ske_udalryk_an_brokvar_small"
+			}
+		}
+		advisor = {
+			slot = high_command
+			idea_token = SKE_udalryk_an_brokvar
+			allowed = {
+				tag = SKE
+			}
+			traits = {
+				army_entrenchment_2
+			}
+			cost = 150
+			ai_will_do = {
+				base = 1.000
+			}
+		}
+		navy_leader={
+			traits={ seawolf  spotter}
+			skill=3
+			attack_skill=3
+			defense_skill=3
+			maneuvering_skill=4
+			coordination_skill=3
+			legacy_id=0
+		}
+	}
+	SKE_draig_bon-dhu={
+		name=SKE_CHARACTER_DRAIG_BON-DHU
+		portraits={
+			civilian={
+				small="GFX_portrait_ske_draig_bon-dhu_small"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = SKE_draig_bon-dhu
+			allowed  = {
+				tag  = SKE
+			}
+			cost =150
+			available = {
+			}
+			traits  = {
+				ideological_crusader
+			}
+			ai_will_do = {
+			  factor =1.0
+			}
+		}
+	}
+	SKE_ermion={
+		name=SKE_CHARACTER_ERMION
+		portraits={
+			civilian={
+				small="GFX_portrait_ske_ermion_small"
+			}
+			army={
+				small="GFX_portrait_ske_ermion_small"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = SKE_ermion
+			allowed  = {
+				tag  = SKE
+			}
+			cost =150
+			available = {
+			}
+			traits  = {
+				quartermaster_trainee
+			}
+			ai_will_do = {
+			  factor =1.0
+			}
+		}
+		advisor = {
+			slot = high_command
+			idea_token = SKE_ermion
+			allowed = {
+				tag = SKE
+			}
+			traits = {
+				army_concealment_2
+			}
+			cost = 150
+			ai_will_do = {
+				base = 1.000
+			}
+		}
+	}
+}

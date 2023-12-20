@@ -1,0 +1,25 @@
+state={
+	id=8
+	name="STATE_8"
+history = { 
+        add_core_of =SKE         
+        owner=SKE
+        victory_points ={4195 20}
+        buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+                        arms_factory = 1
+                        dockyard = 1
+			air_base = 2
+			4195 = {
+				naval_base = 3
+			}
+        }
+}
+	provinces={
+		1237 3586 4189 4195 4206 4224 4234 
+	}
+	buildings_max_level_factor=1.000
+        manpower=2500000
+        state_category = large_town
+}

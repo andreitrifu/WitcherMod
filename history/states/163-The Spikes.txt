@@ -1,0 +1,11 @@
+state={
+	id=163
+	name="STATE_163"
+	provinces={
+		190 255 512 917 1088 1178 1218 1608 1773 1900 2192 2328 2488 2695 2792 2824 2944 2954 2998 3328 3467 3520 3545 4454 4472 4478 4486 4495 4500 4504 4532 4538 4545 4557 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=9400
+        state_category = wasteland
+}

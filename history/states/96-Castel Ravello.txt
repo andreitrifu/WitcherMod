@@ -1,0 +1,15 @@
+state={
+	id=96
+	name="STATE_96"
+        history = {
+        add_core_of =TOU       
+        owner=TOU
+        }
+	provinces={
+		102 198 2178 3051 4333 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=980000
+        state_category = town
+}

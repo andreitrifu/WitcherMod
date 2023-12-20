@@ -1,0 +1,16 @@
+characters={
+	TOU_duchess_anna_henrietta={
+		name=TOU_CHARACTER_DUCHESS_ANNA_HENRIETTA
+		portraits={
+			civilian={
+				large="GFX_portrait_tou_duchess_anna_henrietta"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = { nationalist_symbol }
+			desc = TOU_DUCHESS_ANNA_HENRIETTA_DESC
+			expire="1965.1.1.1"
+		}
+	}
+}

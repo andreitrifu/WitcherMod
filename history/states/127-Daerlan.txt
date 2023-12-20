@@ -1,0 +1,15 @@
+state={
+	id=127
+	name="STATE_127"
+        history = {
+        add_core_of=ETO      
+        owner=ETO 
+        }
+	provinces={
+		77 597 715 957 1050 1453 1484 2407 2503 4677 4678 4683 4700 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=2530000
+        state_category = town
+}

@@ -1,0 +1,15 @@
+state={
+	id=107
+	name="STATE_107"
+        history = {
+        add_core_of =EBB       
+        owner=EBB
+        }
+	provinces={
+		297 857 1679 2082 2219 3231 4612 4628 4631 4650 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=1140000
+        state_category = rural
+}

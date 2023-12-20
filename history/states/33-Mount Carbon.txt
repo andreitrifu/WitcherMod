@@ -1,0 +1,15 @@
+state={
+	id=33
+	name="STATE_33"
+        history = { 
+        add_core_of =MHK        
+        owner=MHK  
+        }
+	provinces={
+		1309 1539 2137 2172 2557 2681 4049 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=2250000
+        state_category = city
+}

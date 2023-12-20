@@ -1,0 +1,16 @@
+characters={
+	RED_king_radovid={
+		name=RED_CHARACTER_KING_RADOVID
+		portraits={
+			civilian={
+				large="GFX_portrait_red_king_radovid"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = { nationalist_symbol }
+			desc = RED_KING_RADOVID_DESC
+			expire="1965.1.1.1"
+		}
+	}
+}

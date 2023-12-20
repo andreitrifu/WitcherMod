@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_portrait_lyr_queen_meve"
+		texturefile = "gfx/leaders/LYR/queen_meve.dds"
+	}
+}

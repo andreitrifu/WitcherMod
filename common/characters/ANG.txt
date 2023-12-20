@@ -1,0 +1,16 @@
+characters={
+	ANG_gimpy_gerwin={
+		name=ANG_CHARACTER_GIMPY_GERWIN
+		portraits={
+			civilian={
+				large="GFX_portrait_ang_gimpy_gerwin"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = { nationalist_symbol }
+			desc = ANG_GIMPY_GERWIN_DESC
+			expire="1965.1.1.1"
+		}
+	}
+}

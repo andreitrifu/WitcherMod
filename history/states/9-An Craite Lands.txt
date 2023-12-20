@@ -1,0 +1,25 @@
+
+state={
+	id=9
+	name="STATE_9"
+history = { 
+        add_core_of =SKE         
+        owner=SKE
+        victory_points ={1119 1}
+        victory_points ={4213 1}
+        buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			4258 = {
+				naval_base = 2
+			}
+		}
+}
+	provinces={
+		770 1119 1720 1866 2270 2303 2825 2927 2979 3415 4168 4173 4177 4181 4184 4190 4191 4194 4199 4207 4210 4213 4225 4229 4253 4258 4269 4274 
+	}
+	manpower=1100000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

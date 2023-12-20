@@ -1,0 +1,16 @@
+characters={
+	KER_king_belohun={
+		name=KER_CHARACTER_KING_BELOHUN
+		portraits={
+			civilian={
+				large="GFX_portrait_ker_king_belohun"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = { nationalist_symbol }
+			desc = KER_KING_BELOHUN_DESC
+			expire="1965.1.1.1"
+		}
+	}
+}

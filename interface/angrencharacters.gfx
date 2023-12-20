@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_portrait_ang_gimpy_gerwin"
+		texturefile = "gfx/leaders/ANG/gimpy_gerwin.dds"
+	}
+}

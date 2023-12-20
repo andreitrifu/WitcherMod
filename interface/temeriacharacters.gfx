@@ -1,0 +1,98 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_portrait_tem_king_foltest"
+		texturefile = "gfx/leaders/TEM/king_foltest_large.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_king_foltest_small"
+		texturefile = "gfx/leaders/TEM/king_foltest_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_vernon_roche"
+		texturefile = "gfx/leaders/TEM/vernon_roche_large.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_vernon_roche_small"
+		texturefile = "gfx/leaders/TEM/vernon_roche_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_thaler"
+		texturefile = "gfx/leaders/TEM/thaler_large.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_thaler_small"
+		texturefile = "gfx/leaders/TEM/thaler_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_triss_merigold"
+		texturefile = "gfx/leaders/TEM/triss_merigold_large.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_triss_merigold_small"
+		texturefile = "gfx/leaders/TEM/triss_merigold_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_john_natalis"
+		texturefile = "gfx/leaders/TEM/john_natalis_large.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_john_natalis_small"
+		texturefile = "gfx/leaders/TEM/john_natalis_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_dandelion"
+		texturefile = "gfx/leaders/TEM/dandelion_large.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_dandelion_small"
+		texturefile = "gfx/leaders/TEM/dandelion_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_keira_metz"
+		texturefile = "gfx/leaders/TEM/keira_metz_large.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_keira_metz_small"
+		texturefile = "gfx/leaders/TEM/keira_metz_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_velerad"
+		texturefile = "gfx/leaders/TEM/velerad_large.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_velerad_small"
+		texturefile = "gfx/leaders/TEM/velerad_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_aryan_la_valette"
+		texturefile = "gfx/leaders/TEM/aryan_la_valette_large.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_aryan_la_valette_small"
+		texturefile = "gfx/leaders/TEM/aryan_la_valette_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_ravanen_kimbolt"
+		texturefile = "gfx/leaders/TEM/ravanen_kimbolt_large.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_ravanen_kimbolt_small"
+		texturefile = "gfx/leaders/TEM/ravanen_kimbolt_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_siegfried_of_denesle"
+		texturefile = "gfx/leaders/TEM/siegfried_of_denesle_large.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_siegfried_of_denesle_small"
+		texturefile = "gfx/leaders/TEM/siegfried_of_denesle_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_phillip_strenger"
+		texturefile = "gfx/leaders/TEM/phillip_strenger_large.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tem_phillip_strenger_small"
+		texturefile = "gfx/leaders/TEM/phillip_strenger_small.dds"
+	}
+}

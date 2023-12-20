@@ -1,0 +1,16 @@
+
+state={
+	id=18
+	name="STATE_18"
+        history = {
+        add_core_of =KER       
+        owner=KER
+        }
+	provinces={
+		263 1600 2508 3143 3612 4059 4060 4064 4079 4093 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=2600000
+        state_category = large_town
+}

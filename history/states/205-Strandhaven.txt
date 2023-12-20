@@ -1,0 +1,11 @@
+state={
+	id=205
+	name="STATE_205"
+	provinces={
+		342 578 985 1397 1986 2004 2042 2141 2540 2652 3499 5034 5038 5048 5058 5060 5073 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=2800000
+        state_category = large_town
+}

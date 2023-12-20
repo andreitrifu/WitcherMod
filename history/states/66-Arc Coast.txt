@@ -1,0 +1,15 @@
+state={
+	id=66
+	name="STATE_66"
+        history = {
+        add_core_of =RED        
+        owner=RED
+        }
+	provinces={
+		641 1648 2580 2585 3470 3851 3861 3870 3880 3885 3886 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=2500000
+        state_category = large_town
+}

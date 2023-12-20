@@ -1,0 +1,11 @@
+state={
+	id=196
+	name="STATE_196"
+	provinces={
+		1508 1709 1805 2107 2898 2980 3863 3879 3889 5373 5374 5375 5376 5377 5381 5382 5383 5384 5385 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=320000
+        state_category = small_island
+}

@@ -1,0 +1,15 @@
+state={
+	id=29
+	name="STATE_29"
+        history = {
+        add_core_of =SOD       
+        owner=SOD
+        }
+	provinces={
+		1673 2671 3112 3258 4143 4159 4167 4179 4186 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=680000
+        state_category = rural
+}

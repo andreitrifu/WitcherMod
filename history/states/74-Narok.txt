@@ -1,0 +1,16 @@
+
+state={
+	id=74
+	name="STATE_74"
+        history = {
+        add_core_of =KOV      
+        owner=KOV 
+        }
+	provinces={
+		44 189 1213 2119 2528 3101 3187 3566 3818 3838 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=730000
+        state_category = rural
+}

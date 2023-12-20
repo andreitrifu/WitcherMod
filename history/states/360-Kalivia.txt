@@ -1,0 +1,11 @@
+state={
+	id=360
+	name="STATE_360"
+	provinces={
+		546 573 668 789 799 1527 1783 2723 3060 3083 3244 3537 4519 4527 4599 4606 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=900000
+        state_category = rural
+}

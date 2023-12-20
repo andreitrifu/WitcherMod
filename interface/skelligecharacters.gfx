@@ -1,0 +1,79 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_portrait_ske_eist_tuirseach"
+		texturefile = "gfx/leaders/SKE/eist_tuirseach.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ske_harald_an_tordarroch"
+		texturefile = "gfx/leaders/SKE/harald_an_tordarroch.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ske_crach_an_craite"
+		texturefile = "gfx/leaders/SKE/crach_an_craite_large.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ske_crach_an_craite_small"
+		texturefile = "gfx/leaders/SKE/crach_an_craite_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ske_holger_blackhand"
+		texturefile = "gfx/leaders/SKE/holger_blackhand_large.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ske_holger_blackhand_small"
+		texturefile = "gfx/leaders/SKE/holger_blackhand_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ske_bran_tuirseach"
+		texturefile = "gfx/leaders/SKE/bran_tuirseach_large.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ske_bran_tuirseach_small"
+		texturefile = "gfx/leaders/SKE/bran_tuirseach_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ske_donar_an_hindar"
+		texturefile = "gfx/leaders/SKE/donar_an_hindar_large.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ske_donar_an_hindar_small"
+		texturefile = "gfx/leaders/SKE/donar_an_hindar_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ske_birna_bran_small"
+		texturefile = "gfx/leaders/SKE/birna_bran_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ske_madman_lugos"
+		texturefile = "gfx/leaders/SKE/madman_lugos_large.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ske_madman_lugos_small"
+		texturefile = "gfx/leaders/SKE/madman_lugos_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ske_udalryk_an_brokvar"
+		texturefile = "gfx/leaders/SKE/udalryk_an_brokvar_large.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ske_udalryk_an_brokvar_small"
+		texturefile = "gfx/leaders/SKE/udalryk_an_brokvar_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ske_draig_bon-dhu"
+		texturefile = "gfx/leaders/SKE/draig_bon-dhu_large.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ske_draig_bon-dhu_small"
+		texturefile = "gfx/leaders/SKE/draig_bon-dhu_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ske_ermion"
+		texturefile = "gfx/leaders/SKE/ermion_large.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ske_ermion_small"
+		texturefile = "gfx/leaders/SKE/ermion_small.dds"
+	}
+}

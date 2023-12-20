@@ -1,0 +1,15 @@
+state={
+	id=24
+	name="STATE_24"
+        history = {
+        add_core_of =BRU      
+        owner=BRU
+        }
+	provinces={
+		323 997 1339 2939 4176 4178 4192 4196 4197 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=1080000
+        state_category = town
+}

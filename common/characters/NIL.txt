@@ -1,0 +1,16 @@
+characters={
+	NIL_emperor_emhyr_var_emreis={
+		name=NIL_CHARACTER_EMPEROR_EMHYR_VAR_EMREIS
+		portraits={
+			civilian={
+				large="GFX_portrait_nil_emperor_emhyr_var_emreis"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = { nationalist_symbol }
+			desc = NIL_EMPEROR_EMHYR_VAR_EMREIS_DESC
+			expire="1965.1.1.1"
+		}
+	}
+}

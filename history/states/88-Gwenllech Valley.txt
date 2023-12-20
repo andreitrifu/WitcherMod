@@ -1,0 +1,15 @@
+state={
+	id=88
+	name="STATE_88"
+        history = {
+        add_core_of =KAE       
+        owner=KAE
+        }
+	provinces={
+		370 1383 2701 3390 3816 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=850000
+        state_category = rural
+}

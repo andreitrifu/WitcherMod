@@ -1,0 +1,16 @@
+characters={
+	KAE_king_henselt={
+		name=KAE_CHARACTER_KING_HENSELT
+		portraits={
+			civilian={
+				large="GFX_portrait_kae_king_henselt"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = { nationalist_symbol }
+			desc = KAE_KING_HENSELT_DESC
+			expire="1965.1.1.1"
+		}
+	}
+}

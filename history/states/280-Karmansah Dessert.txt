@@ -1,0 +1,11 @@
+state={
+	id=280
+	name="STATE_280"
+	provinces={
+		226 440 662 769 901 932 976 1431 1705 2154 2176 2541 2592 2731 3303 3334 3410 5232 5262 5271 5275 5284 5299 5302 5324 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=136000
+        state_category = pastoral
+}

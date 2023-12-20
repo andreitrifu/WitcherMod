@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_portrait_mhk_brouver_hoog"
+		texturefile = "gfx/leaders/MHK/brouver_hoog.dds"
+	}
+}

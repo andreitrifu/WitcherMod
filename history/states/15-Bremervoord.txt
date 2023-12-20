@@ -1,0 +1,14 @@
+state={
+	id=15
+	name="STATE_15"
+        history = {
+        add_core_of =CID       
+        owner=CID
+        }
+	provinces={
+		1163 1992 2769 3549 4023 4035 4039 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1300000
+        state_category = town
+}

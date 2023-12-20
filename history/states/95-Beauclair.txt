@@ -1,0 +1,15 @@
+state={
+	id=95
+	name="STATE_95"
+        history = {
+        add_core_of =TOU       
+        owner=TOU
+        }
+	provinces={
+		16 493 500 2794 4278 4287 4305 4306 4314 4319 4320 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=3150000
+        state_category = city
+}

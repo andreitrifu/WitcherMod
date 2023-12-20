@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_portrait_hen_niedamir"
+		texturefile = "gfx/leaders/HEN/niedamir.dds"
+	}
+}

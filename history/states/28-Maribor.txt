@@ -1,0 +1,22 @@
+state={
+	id=28
+	name="STATE_28"
+        history = {
+        add_core_of =TEM         
+        owner=TEM
+        victory_points ={4104 15}
+        victory_points ={4103 1}
+        buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+                        arms_factory = 2
+		}
+        }
+	provinces={
+		155 2631 2946 4063 4076 4083 4103 4104 4106 4116 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=1200000
+        state_category = city
+}

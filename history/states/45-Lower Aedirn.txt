@@ -1,0 +1,20 @@
+state={
+	id=45
+	name="STATE_45"
+        history = {
+        add_core_of =AED       
+        owner=AED
+        victory_points ={2889 50}
+        buildings = {
+			infrastructure = 2
+			industrial_complex = 1			
+		}
+        }
+	provinces={
+		1734 1818 2686 2889 3031 3166 3400 4053 4058 4071 4073 4084 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=4900000
+        state_category = city
+}

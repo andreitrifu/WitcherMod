@@ -1,0 +1,11 @@
+state={
+	id=216
+	name="STATE_216"
+	provinces={
+		881 1320 1398 2574 5090 5092 5093 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=1570000
+        state_category = city
+}

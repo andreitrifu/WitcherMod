@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_portrait_red_king_radovid"
+		texturefile = "gfx/leaders/RED/king_radovid.dds"
+	}
+}

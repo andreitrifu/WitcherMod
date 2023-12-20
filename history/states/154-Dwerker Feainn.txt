@@ -1,0 +1,15 @@
+state={
+	id=154
+	name="STATE_154"
+        history = {
+        add_core_of=NIL       
+        owner=NIL 
+        }
+	provinces={
+		604 694 719 1575 1584 1868 2290 2373 2452 3276 3452 3528 4738 4742 4752 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=700000
+        state_category = pastoral
+}

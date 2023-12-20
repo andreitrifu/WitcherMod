@@ -1,0 +1,15 @@
+state={
+	id=1
+	name="STATE_1"
+        history = {
+        add_core_of=NIL       
+        owner=NIL 
+        }
+	provinces={
+		120 208 253 289 613 755 872 876 936 1049 1219 1258 1294 1426 1469 1803 1820 1895 2089 2381 2455 2633 2704 2716 2874 2978 3092 3284 3674 4818 4828 4832 4836 4863 4886 4889 4899 4906 4920 4925 4947 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=900
+        state_category = wasteland
+}

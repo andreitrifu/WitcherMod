@@ -1,0 +1,20 @@
+state={
+	id=14
+	name="STATE_14"
+        history = {
+        add_core_of =TEM         
+        owner=TEM
+        victory_points ={310 10}
+        buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+                        arms_factory = 1
+		}
+        }
+	provinces={
+		310 2231 2836 3647 4005 4009 4013 4024 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1700000
+        state_category = town
+}

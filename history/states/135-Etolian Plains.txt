@@ -1,0 +1,15 @@
+state={
+	id=135
+	name="STATE_135"
+        history = {
+        add_core_of=ETO      
+        owner=ETO 
+        }
+	provinces={
+		30 505 1146 1683 2074 2612 2757 3149 4740 4790 4799 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=3100000
+        state_category = large_town
+}

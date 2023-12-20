@@ -1,0 +1,15 @@
+state={
+	id=102
+	name="STATE_102"
+        history = {
+        add_core_of =MAG      
+        owner=MAG 
+        }
+	provinces={
+		31 777 837 892 923 1130 1292 1407 2406 3697 4371 4397 4411 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=2300000
+        state_category = town
+}

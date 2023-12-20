@@ -1,0 +1,15 @@
+state={
+	id=141
+	name="STATE_141"
+        history = {
+        add_core_of=NIL       
+        owner=NIL 
+        }
+	provinces={
+		380 1242 1850 3145 4826 4851 4859 4873 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=2500000
+        state_category = large_town
+}

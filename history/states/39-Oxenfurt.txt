@@ -1,0 +1,15 @@
+state={
+	id=39
+	name="STATE_39"
+        history = {
+        add_core_of =RED        
+        owner=RED
+        }
+	provinces={
+		1071 1675 3269 3979 3985 3992 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        manpower=2800000
+        state_category = city
+}
