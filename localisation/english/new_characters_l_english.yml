@@ -1,6 +1,6 @@
 ﻿l_english:
  SKE_CHARACTER_EIST_TUIRSEACH:0 "Eist Tuirseach"
- SKE_EIST_TUIRSEACH_DESC:0 "The Skelliger King"
+ SKE_EIST_TUIRSEACH_DESC:0 "The Skelliger Jarl, married to the Cintran Queen Calanthe after the strange events on the day of princess Pavetta's 15'th birthday. Eist succedes his brother Bran as ruler of Skellige, forging a strong bond with the mainland kingdom of Cintra, the pirates of the Isles find in him a great warrior who does not shy from battle like some Nordling kings."
  SKE_CHARACTER_HARALD_AN_TORDARROCH:0 "Harald an Tordarroch"
  SKE_CHARACTER_CRACH_AN_CRAITE:0 "Crach an Craite"
  SKE_CHARACTER_HOLGER_BLACKHAND:0 "Holger Blackhand"
@@ -11,7 +11,9 @@
  SKE_CHARACTER_UDALRYK_AN_BROKVAR:0 "Udalryk an Brokvar"
  SKE_CHARACTER_DRAIG_BON-DHU:0 "Draig Bon-Dhu"
  SKE_CHARACTER_ERMION:0 "Ermion"
+ 
  TEM_CHARACTER_KING_FOLTEST:0 "King Foltest"
+ TEM_KING_FOLTEST_DESC:0 "The Temerian King, described by many as a man who indulges himself in the simple pleasures of life instead of ruling over his subjects. There are even rumors of his intimate relations with his own sister, which might explain the curse brought down upon his daughter, Adda. While these rumors may very well be true, there is no denying of King Foltest's charisma and ability to lead his men into battle."
  TEM_CHARACTER_VERNON_ROCHE:0 "Vernon Roche"
  TEM_CHARACTER_THALER:0 "Thaler"
  TEM_CHARACTER_TRISS_MERIGOLD:0 "Triss Merigold"
@@ -23,30 +25,45 @@
  TEM_CHARACTER_RAVANEN_KIMBOLT:0 "Ravanen Kimbolt"
  TEM_CHARACTER_SIEGFRIED_OF_DENESLE:0 "Siegfried of Denesle"
  TEM_CHARACTER_PHILLIP_STRENGER:0 "Phillip Strenger"
+ 
  RED_CHARACTER_KING_RADOVID:0 "King Radovid"
+ RED_KING_RADOVID_DESC:0 "The Skelliger King"
  
  KAE_CHARACTER_KING_HENSELT:0 "King Henselt"
+ KAE_KING_HENSELT_DESC:0 "King Henselt of the Unicorn, lord over Kaedwen is not known so much for his diplomatic finesse. His military prowesse on the other hand, unmatched, it is said he knows his soldiers by name and properly adores his war machines, his "children" putting any rival army to shame."
  
  AED_CHARACTER_KING_DEMAVEND_III:0 "King Demavend III"
+ AED_KING_DEMAVEND_III_DESC:0 "The Aedirni King is not lesser in any way to his counterparts in the great four realms of the North. As shrewd in tactics as in politics, his realm's never ending strife with his northern neighbours proves his qualities in gaining alliances and facing a greater foe. His distrust of mages is rather uncommon, often using messengers to deliver important news."
  
  KOV_CHARACTER_ESTERAD_THYSSEN:0 "Esterad Thyssen"
+ KOV_ESTERAD_THYSSEN_DESC:0 "Not often does a King rise from the depts of despair to win back his rightfull land. But king Esterad did, his kingdom lost to the many power struggles that would result in petty kingdoms, he was forced into exile and after many years in the event known as the Night of Knives and Torches took back his kingdom."
  
  ANG_CHARACTER_GIMPY_GERWIN:0 "Gimpy Gerwin"
+ ANG_GIMPY_GERWIN_DESC:0 "Angren was never a beacon of civilisation or wealth, or anything worth fighting for, so Gimpy took it. Gimpy is a bandit, to put it lightly, a ruthless mercenary of some forgotten bloody war who thought to have a shot at glory."
  
  BRO_CHARACTER_EITHNE:0 "Eithne"
+ BRO_EITHNE_DESC:0 "The Queen of Dryads, the silver-eyes lady of Brokilon watches over her subjects, but perhaps most importantly over her domain, the ancestral forest of Brokilon. Humans have no place in Brokilon, unless they have a death wish, for the Queen's hatred knows no boundries."
  
  CIN_CHARACTER_QUEEN_CALANTHE:0 "Queen Calanthe"
+ CIN_QUEEN_CALANTHE_DESC:0 "The Lioness of Cintra is a nickname won in battle, such is her authority in her kingdom. Her courtmen would not agree to a woman ruling so she was forced to get a king, and so she did, a petty duke who would not stand between her and power. After his death there was no questioning her rule's quality, and found a new king in the jarl of Skellige."
  
  HEN_CHARACTER_NIEDAMIR:0 "Niedamir"
+ HEN_NIEDAMIR_DESC:0 "The first to unite these war torn realms, Niedamir rules over dragon plagued lands, participating in a few hunts of his own, without any success. What he succedes in is expanding, from a mere petty kingdom to a formidable force in the North."
  
  KER_CHARACTER_KING_BELOHUN:0 "King Belohun"
+ KER_KING_BELOHUN_DESC:0 "The second King of Kecack did not make his life any easier by denying his four sons right to rule, he thinks a fifth legitimate boy will be the one worthy of ruling his maritime kingdom. There are many voices in his court speaking of treason, but the old king is also an old fox with many ears."
  
  LYR_CHARACTER_QUEEN_MEVE:0 "Queen Meve"
+ LYR_QUEEN_MEVE_DESC:0 "The White Queen was thought to be weak, a plaything for her Council to manipulate. But after her king's death she proved them wrong, some opportunists sought to take power from the realm but were met with their doom at the hand of a warrior queen. Ever a cunning leader, she sought alliances with her neighboring kingdoms, perhaps sensing a storm coming."
  
  MHK_CHARACTER_BROUVER_HOOG:0 "Brouver Hoog"
+ MHK_BROUVER_HOOG_DESC:0 "Thought too restrictive, too conservative, the Elder of Mahakam seeks the good of his people by their own means. No war entered Mahakam in the past centuries due to his unwavering neutrality, and the dwarves forged themselves a home, unlike the ever rebelious elves with their grand vision of driving the humans into the sea, Brouver seeks a mutual understanding, or perhaps a mutual non-interference."
  
  NIL_CHARACTER_EMPEROR_EMHYR_VAR_EMREIS:0 "Emperor Emhyr var Emreis"
+ NIL_EMPEROR_EMHYR_VAR_EMREIS_DESC:0 "Deithwen Addan yn Carn aep Morvudd is feared far and wide for he rules an Empire greater than the whole North combined. After the Usurper took his father's life he was cursed and became an exiled, but Emhyr wasn't ever going to forget, or forgive. Travelling to Cintra, he fell in love with princess Pavetta who would bear him a child and ultimatelly lift his curse. Aided by those still loyal to the Emreis name, he took back his throne and paved his halls with the graves of his foes."
  
  NOV_CHARACTER_HIERARCH_HEMMELFART:0 "Hierarch Hemmelfart"
+ NOV_HIERARCH_HEMMELFART_DESC:0 "The Hierarch of Novigrad is a cynic old man, a noted racist and the leader of a rapidly expanding religion that does not tolerate mages or any form of wizardry. It is said that he does not speak, but thunder, and has an army of firesworn zealots to do his bidding. The Free City of Novigrad may not be so free after all."
  
  TOU_CHARACTER_DUCHESS_ANNA_HENRIETTA:0 "Duchess Anna Henrietta"
+ TOU_DUCHESS_ANNA_HENRIETTA_DESC:0 "Her Enlightened Ladyship, cousin of Emhyr var Emreis rules over the fairy tale Duchy of Toussaint, where wine and honey flow without measure. Generous in nature, it is known that those who get on her nerves regret doing so."
