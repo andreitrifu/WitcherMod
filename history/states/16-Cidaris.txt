@@ -4,6 +4,7 @@ state={
         history = {
         add_core_of =CID       
         owner=CID
+        victory_points ={1580 20}
         }
 	provinces={
 		328 1580 3309 3417 3567 4022 4026 4031 4033 

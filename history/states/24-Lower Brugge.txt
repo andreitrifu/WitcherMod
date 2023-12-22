@@ -4,6 +4,8 @@ state={
         history = {
         add_core_of =BRU      
         owner=BRU
+	victory_points ={2939 5}
+	victory_points ={4196 1}
         }
 	provinces={
 		323 997 1339 2939 4176 4178 4192 4196 4197 

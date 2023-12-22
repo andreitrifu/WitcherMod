@@ -4,6 +4,7 @@ state={
         history = {
         add_core_of =VER      
         owner=VER
+	victory_points ={4150 5}
         }
 	provinces={
 		2000 2187 2203 3512 4150 
