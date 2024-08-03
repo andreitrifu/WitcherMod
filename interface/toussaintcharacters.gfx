@@ -4,4 +4,60 @@ spriteTypes = {
 		name = "GFX_portrait_tou_duchess_anna_henrietta"
 		texturefile = "gfx/leaders/TOU/duchess_anna_henrietta.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_tou_artorius_vigo"
+		texturefile = "gfx/leaders/TOU/artorius_vigo.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tou_artorius_vigo_small"
+		texturefile = "gfx/leaders/TOU/artorius_vigo_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tou_damien_de_la_tour"
+		texturefile = "gfx/leaders/TOU/damien_de_la_tour.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tou_damien_de_la_tour_small"
+		texturefile = "gfx/leaders/TOU/damien_de_la_tour_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tou_fringilla_vigo"
+		texturefile = "gfx/leaders/TOU/fringilla_vigo.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tou_fringilla_vigo_small"
+		texturefile = "gfx/leaders/TOU/fringilla_vigo_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tou_milton_de_peyrac-peyran"
+		texturefile = "gfx/leaders/TOU/milton_de_peyrac-peyran.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tou_milton_de_peyrac-peyran_small"
+		texturefile = "gfx/leaders/TOU/milton_de_peyrac-peyran_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tou_palmerin_de_launfal"
+		texturefile = "gfx/leaders/TOU/palmerin_de_launfal.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tou_palmerin_de_launfal_small"
+		texturefile = "gfx/leaders/TOU/palmerin_de_launfal_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tou_roderick_of_dun_tynne"
+		texturefile = "gfx/leaders/TOU/roderick_of_dun_tynne.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tou_roderick_of_dun_tynne_small"
+		texturefile = "gfx/leaders/TOU/roderick_of_dun_tynne_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tou_sylvia_anna"
+		texturefile = "gfx/leaders/TOU/sylvia_anna.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_tou_sylvia_anna_small"
+		texturefile = "gfx/leaders/TOU/sylvia_anna_small.dds"
+	}
 }

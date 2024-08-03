@@ -28,6 +28,12 @@
  
  RED_CHARACTER_KING_RADOVID:0 "King Radovid"
  RED_KING_RADOVID_DESC:0 "The Skelliger King"
+ RED_CHARACTER_DONIMIR_OF_TROY:0 "Donimir of Troy"
+ RED_CHARACTER_GUS_OF_TRETOGOR:0 "Gus of Tretogor"
+ RED_CHARACTER_OLGIERD_VON_EVEREC:0 "Olgierd von Everec"
+ RED_CHARACTER_POLYCARP_OF_RINDE:0 "Polycarp of Rinde"
+ RED_CHARACTER_PHILIPPA_EILHART:0 "Philippa Eilhart"
+ RED_CHARACTER_SIGISMUND_DIJKSTRA:0 "Sigismund Dijkstra"
  
  KAE_CHARACTER_KING_HENSELT:0 "King Henselt"
  KAE_KING_HENSELT_DESC:0 "King Henselt of the Unicorn, lord over Kaedwen is not known so much for his diplomatic finesse. His military prowesse on the other hand, unmatched, it is said he knows his soldiers by name and properly adores his war machines, his "children" putting any rival army to shame."

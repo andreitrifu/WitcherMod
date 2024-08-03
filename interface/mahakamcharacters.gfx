@@ -4,4 +4,44 @@ spriteTypes = {
 		name = "GFX_portrait_mhk_brouver_hoog"
 		texturefile = "gfx/leaders/MHK/brouver_hoog.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_mhk_barclay_els"
+		texturefile = "gfx/leaders/MHK/barclay_els.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_mhk_barclay_els_small"
+		texturefile = "gfx/leaders/MHK/barclay_els_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_mhk_dennis_cranmer"
+		texturefile = "gfx/leaders/MHK/dennis_cranmer.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_mhk_dennis_cranmer_small"
+		texturefile = "gfx/leaders/MHK/dennis_cranmer_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_mhk_sheldon_skaggs"
+		texturefile = "gfx/leaders/MHK/sheldon_skaggs.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_mhk_sheldon_skaggs_small"
+		texturefile = "gfx/leaders/MHK/sheldon_skaggs_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_mhk_yarpen_zigrin"
+		texturefile = "gfx/leaders/MHK/yarpen_zigrin.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_mhk_yarpen_zigrin_small"
+		texturefile = "gfx/leaders/MHK/yarpen_zigrin_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_mhk_zoltan_chivay"
+		texturefile = "gfx/leaders/MHK/zoltan_chivay.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_mhk_zoltan_chivay_small"
+		texturefile = "gfx/leaders/MHK/zoltan_chivay_small.dds"
+	}
 }

@@ -4,4 +4,20 @@ spriteTypes = {
 		name = "GFX_portrait_ker_king_belohun"
 		texturefile = "gfx/leaders/KER/king_belohun.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_ker_egmund"
+		texturefile = "gfx/leaders/KER/egmund.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ker_egmund_small"
+		texturefile = "gfx/leaders/KER/egmund_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ker_viraxas"
+		texturefile = "gfx/leaders/KER/viraxas.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ker_viraxas_small"
+		texturefile = "gfx/leaders/KER/viraxas_small.dds"
+	}
 }

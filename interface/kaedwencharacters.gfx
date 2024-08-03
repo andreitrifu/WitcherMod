@@ -4,4 +4,36 @@ spriteTypes = {
 		name = "GFX_portrait_kae_king_henselt"
 		texturefile = "gfx/leaders/KAE/king_henselt.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_kae_bras_of_ban_ard"
+		texturefile = "gfx/leaders/KAE/bras_of_ban_ard.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_kae_bras_of_ban_ard_small"
+		texturefile = "gfx/leaders/KAE/bras_of_ban_ard_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_kae_sabrina_glevissig"
+		texturefile = "gfx/leaders/KAE/sabrina_glevissig.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_kae_sabrina_glevissig_small"
+		texturefile = "gfx/leaders/KAE/sabrina_glevissig_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_kae_vandergrift"
+		texturefile = "gfx/leaders/KAE/vandergrift.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_kae_vandergrift_small"
+		texturefile = "gfx/leaders/KAE/vandergrift_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_kae_zyvik"
+		texturefile = "gfx/leaders/KAE/zyvik.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_kae_zyvik_small"
+		texturefile = "gfx/leaders/KAE/zyvik_small.dds"
+	}
 }

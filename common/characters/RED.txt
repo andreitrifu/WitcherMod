@@ -13,4 +13,214 @@ characters={
 			expire="1965.1.1.1"
 		}
 	}
+	RED_donimir_of_troy={
+		name=RED_CHARACTER_DONIMIR_OF_TROY
+		portraits={
+			civilian={
+				small="GFX_portrait_red_donimir_of_troy_small"
+			}
+			army={
+				large="GFX_portrait_red_donimir_of_troy"
+			}
+			army={
+				small="GFX_portrait_red_donimir_of_troy_small"
+			}
+		}
+		advisor={
+			slot = high_command
+			idea_token = RED_donimir_of_troy
+			allowed  = {
+				tag  = RED
+			}
+			cost =150
+			available = {
+			}
+			traits  = {
+				army_cavalry_2 army_armor_1
+			}
+			ai_will_do = {
+			  factor =1.0
+			}
+		}
+		corps_commander={
+			traits={ cavalry_officer trait_reckless}
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+	RED_gus_of_tretogor={
+		name=RED_CHARACTER_GUS_OF_TRETOGOR
+		portraits={
+			civilian={
+				small="GFX_portrait_red_gus_of_tretogor_small"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = RED_gus_of_tretogor
+			allowed  = {
+				tag  = RED
+			}
+			cost =150
+			available = {
+			}
+			traits  = {
+				smooth_talking_charmer
+			}
+			ai_will_do = {
+			  factor =1.0
+			}
+		}
+	}
+	RED_olgierd_von_everec={
+		name=RED_CHARACTER_OLGIERD_VON_EVEREC
+		portraits={
+			civilian={
+				small="GFX_portrait_red_olgierd_von_everec_small"
+			}
+			army={
+				large="GFX_portrait_red_olgierd_von_everec"
+			}
+			army={
+				small="GFX_portrait_red_olgierd_von_everec_small"
+			}
+		}
+		advisor={
+			slot = high_command
+			idea_token = RED_olgierd_von_everec
+			allowed  = {
+				tag  = RED
+			}
+			cost =150
+			available = {
+			}
+			traits  = {
+				army_regrouping_2
+			}
+			ai_will_do = {
+			  factor =1.0
+			}
+		}
+		corps_commander={
+			traits={ trait_reckless trickster ranger}
+			skill=2
+			attack_skill=3
+			defense_skill=2
+			planning_skill=2
+			logistics_skill=3
+			legacy_id=0
+		}
+	}
+	RED_polycarp_of_rinde={
+		name=RED_CHARACTER_POLYCARP_OF_RINDE
+		portraits={
+			civilian={
+				small="GFX_portrait_red_polycarp_of_rinde_small"
+			}
+			army={
+				large="GFX_portrait_red_polycarp_of_rinde"
+			}
+			army={
+				small="GFX_portrait_red_polycarp_of_rinde_small"
+			}
+		}
+		advisor={
+			slot = army_chief
+			idea_token = RED_polycarp_of_rinde
+			allowed = {
+				tag=RED
+			}
+			traits = {
+				army_chief_morale_2
+			}
+			cost = 150
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+		field_marshal={
+			traits={ politically_connected organization_first }
+			skill=3
+			attack_skill=2
+			defense_skill=3
+			planning_skill=3
+			logistics_skill=3
+			legacy_id=0
+		}
+	}
+	RED_philippa_eilhart={
+		name=RED_CHARACTER_PHILIPPA_EILHART
+		portraits={
+			civilian={
+				small="GFX_portrait_red_philippa_eilhart_small"
+			}
+			army={
+				large="GFX_portrait_red_philippa_eilhart"
+			}
+			army={
+				small="GFX_portrait_red_philippa_eilhart_small"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = RED_philippa_eilhart
+			allowed  = {
+				tag  = RED
+			}
+			cost =150
+			available = {
+			}
+			traits  = {
+				prince_of_terror communist_revolutionary
+			}
+			ai_will_do = {
+			  factor =1.0
+			}
+		}
+		advisor={
+			cost = 150
+			
+			slot = theorist
+			idea_token = RED_philippa_eilhart
+			ledger = army
+				allowed = {
+					tag = RED
+				}
+				
+				traits = {
+					dive_bomber
+				}
+				ai_will_do = {
+			     factor =1.0
+			    }
+		}
+	}
+	RED_sigismund_dijkstra={
+		name=RED_CHARACTER_SIGISMUND_DIJKSTRA
+		portraits={
+			civilian={
+				small="GFX_portrait_red_sigismund_dijkstra_small"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = RED_sigismund_dijkstra
+			allowed  = {
+				tag  = RED
+			}
+			cost =150
+			available = {
+			}
+			traits  = {
+				head_of_intelligence propaganda_bungler
+			}
+			ai_will_do = {
+			  factor =1.0
+			}
+		}
+	}
 }

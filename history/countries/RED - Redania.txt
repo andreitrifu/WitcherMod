@@ -19,6 +19,13 @@ set_technology = {
 }
 
 recruit_character=RED_king_radovid
+recruit_character=RED_donimir_of_troy
+recruit_character=RED_gus_of_tretogor
+recruit_character=RED_olgierd_von_everec
+recruit_character=RED_polycarp_of_rinde
+recruit_character=RED_philippa_eilhart
+recruit_character=RED_sigismund_dijkstra
+
 
 set_research_slots = 3
 

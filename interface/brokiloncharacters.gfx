@@ -4,4 +4,52 @@ spriteTypes = {
 		name = "GFX_portrait_bro_eithne"
 		texturefile = "gfx/leaders/BRO/eithne.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_bro_aglais"
+		texturefile = "gfx/leaders/BRO/aglais.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_bro_aglais_small"
+		texturefile = "gfx/leaders/BRO/aglais_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_bro_braenn"
+		texturefile = "gfx/leaders/BRO/braenn.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_bro_braenn_small"
+		texturefile = "gfx/leaders/BRO/braenn_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_bro_dunca"
+		texturefile = "gfx/leaders/BRO/dunca.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_bro_dunca_small"
+		texturefile = "gfx/leaders/BRO/dunca_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_bro_fauve"
+		texturefile = "gfx/leaders/BRO/fauve.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_bro_fauve_small"
+		texturefile = "gfx/leaders/BRO/fauve_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_bro_morenn"
+		texturefile = "gfx/leaders/BRO/morenn.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_bro_morenn_small"
+		texturefile = "gfx/leaders/BRO/morenn_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_bro_sirssa"
+		texturefile = "gfx/leaders/BRO/sirssa.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_bro_sirssa_small"
+		texturefile = "gfx/leaders/BRO/sirssa_small.dds"
+	}
 }

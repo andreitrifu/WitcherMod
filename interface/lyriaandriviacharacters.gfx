@@ -4,4 +4,28 @@ spriteTypes = {
 		name = "GFX_portrait_lyr_queen_meve"
 		texturefile = "gfx/leaders/LYR/queen_meve.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_lyr_caldwell"
+		texturefile = "gfx/leaders/LYR/caldwell.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_lyr_caldwell_small"
+		texturefile = "gfx/leaders/LYR/caldwell_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_lyr_rayla"
+		texturefile = "gfx/leaders/LYR/rayla.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_lyr_rayla_small"
+		texturefile = "gfx/leaders/LYR/rayla_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_lyr_reynard_odo"
+		texturefile = "gfx/leaders/LYR/reynard_odo.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_lyr_reynard_odo_small"
+		texturefile = "gfx/leaders/LYR/reynard_odo_small.dds"
+	}
 }

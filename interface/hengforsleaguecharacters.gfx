@@ -4,4 +4,36 @@ spriteTypes = {
 		name = "GFX_portrait_hen_niedamir"
 		texturefile = "gfx/leaders/HEN/niedamir.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_hen_boholt"
+		texturefile = "gfx/leaders/HEN/boholt.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_hen_boholt_small"
+		texturefile = "gfx/leaders/HEN/boholt_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_hen_bryton_de_creigiau"
+		texturefile = "gfx/leaders/HEN/bryton_de_creigiau.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_hen_bryton_de_creigiau_small"
+		texturefile = "gfx/leaders/HEN/bryton_de_creigiau_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_hen_merwyin_ademeyn"
+		texturefile = "gfx/leaders/HEN/merwyin_ademeyn.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_hen_merwyin_ademeyn_small"
+		texturefile = "gfx/leaders/HEN/merwyin_ademeyn_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_hen_sheala_de_tancarville"
+		texturefile = "gfx/leaders/HEN/sheala_de_tancarville.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_hen_sheala_de_tancarville_small"
+		texturefile = "gfx/leaders/HEN/sheala_de_tancarville_small.dds"
+	}
 }

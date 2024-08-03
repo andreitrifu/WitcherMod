@@ -4,4 +4,44 @@ spriteTypes = {
 		name = "GFX_portrait_kov_esterad_thyssen"
 		texturefile = "gfx/leaders/KOV/esterad_thyssen.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_kov_carduin"
+		texturefile = "gfx/leaders/KOV/carduin.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_kov_carduin_small"
+		texturefile = "gfx/leaders/KOV/carduin_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_kov_dethmold"
+		texturefile = "gfx/leaders/KOV/dethmold.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_kov_dethmold_small"
+		texturefile = "gfx/leaders/KOV/dethmold_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_kov_istredd"
+		texturefile = "gfx/leaders/KOV/istredd.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_kov_istredd_small"
+		texturefile = "gfx/leaders/KOV/istredd_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_kov_stregobor"
+		texturefile = "gfx/leaders/KOV/stregobor.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_kov_stregobor_small"
+		texturefile = "gfx/leaders/KOV/stregobor_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_kov_vilgefortz"
+		texturefile = "gfx/leaders/KOV/vilgefortz.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_kov_vilgefortz_small"
+		texturefile = "gfx/leaders/KOV/vilgefortz_small.dds"
+	}
 }

@@ -4,4 +4,44 @@ spriteTypes = {
 		name = "GFX_portrait_nov_hierarch_hemmelfart"
 		texturefile = "gfx/leaders/NOV/hierarch_hemmelfart.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_nov_caleb_menge"
+		texturefile = "gfx/leaders/NOV/caleb_menge.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nov_caleb_menge_small"
+		texturefile = "gfx/leaders/NOV/caleb_menge_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nov_carlo_varese"
+		texturefile = "gfx/leaders/NOV/carlo_varese.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nov_carlo_varese_small"
+		texturefile = "gfx/leaders/NOV/carlo_varese_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nov_chappelle"
+		texturefile = "gfx/leaders/NOV/chappelle.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nov_chappelle_small"
+		texturefile = "gfx/leaders/NOV/chappelle_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nov_cyprian_wiley"
+		texturefile = "gfx/leaders/NOV/cyprian_wiley.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nov_cyprian_wiley_small"
+		texturefile = "gfx/leaders/NOV/cyprian_wiley_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nov_francis_bedlam"
+		texturefile = "gfx/leaders/NOV/francis_bedlam.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nov_francis_bedlam_small"
+		texturefile = "gfx/leaders/NOV/francis_bedlam_small.dds"
+	}
 }

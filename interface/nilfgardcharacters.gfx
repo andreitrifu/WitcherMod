@@ -4,4 +4,100 @@ spriteTypes = {
 		name = "GFX_portrait_nil_emperor_emhyr_var_emreis"
 		texturefile = "gfx/leaders/NIL/emperor_emhyr_var_emreis.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_nil_philippa_eilhart"
+		texturefile = "gfx/leaders/NIL/philippa_eilhart.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_philippa_eilhart_small"
+		texturefile = "gfx/leaders/NIL/philippa_eilhart_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_admiral_rompally"
+		texturefile = "gfx/leaders/NIL/admiral_rompally.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_admiral_rompally_small"
+		texturefile = "gfx/leaders/NIL/admiral_rompally_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_ardal_aep_dahy"
+		texturefile = "gfx/leaders/NIL/ardal_aep_dahy.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_ardal_aep_dahy_small"
+		texturefile = "gfx/leaders/NIL/ardal_aep_dahy_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_cahir_aep_ceallach"
+		texturefile = "gfx/leaders/NIL/cahir_aep_ceallach.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_cahir_aep_ceallach_small"
+		texturefile = "gfx/leaders/NIL/cahir_aep_ceallach_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_joachim_de_wett"
+		texturefile = "gfx/leaders/NIL/joachim_de_wett.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_joachim_de_wett_small"
+		texturefile = "gfx/leaders/NIL/joachim_de_wett_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_menno_coehoorn"
+		texturefile = "gfx/leaders/NIL/menno_coehoorn.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_menno_coehoorn_small"
+		texturefile = "gfx/leaders/NIL/menno_coehoorn_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_morvran_voorhis"
+		texturefile = "gfx/leaders/NIL/morvran_voorhis.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_morvran_voorhis_small"
+		texturefile = "gfx/leaders/NIL/morvran_voorhis_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_rience"
+		texturefile = "gfx/leaders/NIL/rience.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_rience_small"
+		texturefile = "gfx/leaders/NIL/rience_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_shilard_fitz-Oesterlen"
+		texturefile = "gfx/leaders/NIL/shilard_fitz-Oesterlen.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_shilard_fitz-Oesterlen_small"
+		texturefile = "gfx/leaders/NIL/shilard_fitz-Oesterlen_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_stefan_skellen"
+		texturefile = "gfx/leaders/NIL/stefan_skellen.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_stefan_skellen_small"
+		texturefile = "gfx/leaders/NIL/stefan_skellen_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_vanhemar"
+		texturefile = "gfx/leaders/NIL/vanhemar.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_vanhemar_small"
+		texturefile = "gfx/leaders/NIL/vanhemar_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_vattier_de_rideaux"
+		texturefile = "gfx/leaders/NIL/vattier_de_rideaux.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_nil_vattier_de_rideaux_small"
+		texturefile = "gfx/leaders/NIL/vattier_de_rideaux_small.dds"
+	}
 }

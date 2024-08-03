@@ -4,4 +4,28 @@ spriteTypes = {
 		name = "GFX_portrait_cin_queen_calanthe"
 		texturefile = "gfx/leaders/CIN/queen_calanthe.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_cin_rainfarn"
+		texturefile = "gfx/leaders/CIN/rainfarn.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cin_rainfarn_small"
+		texturefile = "gfx/leaders/CIN/rainfarn_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cin_vissegerd"
+		texturefile = "gfx/leaders/CIN/vissegerd.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cin_vissegerd_small"
+		texturefile = "gfx/leaders/CIN/vissegerd_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cin_windhalm_of_attre"
+		texturefile = "gfx/leaders/CIN/windhalm_of_attre.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cin_windhalm_of_attre_small"
+		texturefile = "gfx/leaders/CIN/windhalm_of_attre_small.dds"
+	}
 }

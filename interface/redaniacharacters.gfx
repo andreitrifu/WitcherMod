@@ -36,4 +36,20 @@ spriteTypes = {
 		name = "GFX_portrait_red_gus_of_tretogor_small"
 		texturefile = "gfx/leaders/RED/gus_of_tretogor_small.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_red_olgierd_von_everec"
+		texturefile = "gfx/leaders/RED/olgierd_von_everec.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_red_olgierd_von_everec_small"
+		texturefile = "gfx/leaders/RED/olgierd_von_everec_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_red_polycarp_of_rinde"
+		texturefile = "gfx/leaders/RED/polycarp_of_rinde.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_red_polycarp_of_rinde_small"
+		texturefile = "gfx/leaders/RED/polycarp_of_rinde_small.dds"
+	}
 }

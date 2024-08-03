@@ -4,4 +4,44 @@ spriteTypes = {
 		name = "GFX_portrait_aed_king_demavend_III"
 		texturefile = "gfx/leaders/AED/king_demavend_III.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_aed_abelard_of_hagge"
+		texturefile = "gfx/leaders/AED/abelard_of_hagge.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_aed_abelard_of_hagge_small"
+		texturefile = "gfx/leaders/AED/abelard_of_hagge_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_aed_olcan_grandemot"
+		texturefile = "gfx/leaders/AED/olcan_grandemot.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_aed_olcan_grandemot_small"
+		texturefile = "gfx/leaders/AED/olcan_grandemot_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_aed_seltkirk"
+		texturefile = "gfx/leaders/AED/seltkirk.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_aed_seltkirk_small"
+		texturefile = "gfx/leaders/AED/seltkirk_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_aed_stennis"
+		texturefile = "gfx/leaders/AED/stennis.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_aed_stennis_small"
+		texturefile = "gfx/leaders/AED/stennis_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_aed_yennefer_of_vengerberg"
+		texturefile = "gfx/leaders/AED/yennefer_of_vengerberg.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_aed_yennefer_of_vengerberg_small"
+		texturefile = "gfx/leaders/AED/yennefer_of_vengerberg_small.dds"
+	}
 }
