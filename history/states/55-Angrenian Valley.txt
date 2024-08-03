@@ -4,6 +4,7 @@ state={
         history = {
         add_core_of =ANG       
         owner=ANG 
+	victory_points ={451 5}
         } 
 	provinces={
 		451 851 1761 2208 3122 3602 4198 

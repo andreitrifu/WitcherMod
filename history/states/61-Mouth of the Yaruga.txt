@@ -4,6 +4,7 @@ state={
         history = {
         add_core_of =CIN        
         owner=CIN 
+	victory_points ={3457 50}
         }
 	provinces={
 		3436 3457 4202 4220 4228 4238 4241 4243 5392 5393 5394 

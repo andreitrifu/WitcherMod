@@ -4,6 +4,7 @@ state={
         history = {
         add_core_of =KAE       
         owner=KAE
+	victory_points ={2463 10}
         }
 	provinces={
 		672 968 1140 1777 2400 2463 2797 3210 3291 3932 3933 3938 3946 3972 3982 

@@ -4,6 +4,7 @@ state={
         history = { 
         add_core_of =MHK        
         owner=MHK  
+	victory_points ={4049 20}
         }
 	provinces={
 		1309 1539 2137 2172 2557 2681 4049 

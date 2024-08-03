@@ -4,6 +4,8 @@ state={
         history = {
         add_core_of =LYR       
         owner=LYR 
+	victory_points ={4127 40}
+	victory_points ={4175 1}
         }
 	provinces={
 		645 1438 2006 3117 3265 4127 4145 4153 4175 

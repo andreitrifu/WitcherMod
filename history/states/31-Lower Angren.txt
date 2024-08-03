@@ -4,6 +4,7 @@ state={
         history = {
         add_core_of =SOD       
         owner=SOD
+	victory_points ={1857 2}
         }
 	provinces={
 		1514 1609 1857 2477 4132 4144 4149 

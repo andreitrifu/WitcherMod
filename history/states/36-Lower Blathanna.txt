@@ -4,6 +4,7 @@ state={
         history = {
         add_core_of =AED       
         owner=AED
+	victory_points ={3989 1}
         }
 	provinces={
 		290 1142 3349 3989 4001 4025 

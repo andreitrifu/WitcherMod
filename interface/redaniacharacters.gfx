@@ -4,4 +4,36 @@ spriteTypes = {
 		name = "GFX_portrait_red_king_radovid"
 		texturefile = "gfx/leaders/RED/king_radovid.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_red_philippa_eilhart"
+		texturefile = "gfx/leaders/RED/philippa_eilhart.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_red_philippa_eilhart_small"
+		texturefile = "gfx/leaders/RED/philippa_eilhart_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_red_sigismund_dijkstra"
+		texturefile = "gfx/leaders/RED/sigismund_dijkstra.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_red_sigismund_dijkstra_small"
+		texturefile = "gfx/leaders/RED/sigismund_dijkstra_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_red_donimir_of_troy"
+		texturefile = "gfx/leaders/RED/donimir_of_troy.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_red_donimir_of_troy_small"
+		texturefile = "gfx/leaders/RED/donimir_of_troy_small.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_red_gus_of_tretogor"
+		texturefile = "gfx/leaders/RED/gus_of_tretogor.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_red_gus_of_tretogor_small"
+		texturefile = "gfx/leaders/RED/gus_of_tretogor_small.dds"
+	}
 }
