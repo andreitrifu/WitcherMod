@@ -6,6 +6,12 @@ state={
         owner=RED
 	victory_points ={3985 25}
 	victory_points ={3979 1}
+	buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+                        arms_factory = 2
+			air_base = 2
+		}
         }
 	provinces={
 		1071 1675 3269 3979 3985 3992 

@@ -4,6 +4,11 @@ state={
         history = {
         add_core_of =RED        
         owner=RED
+	buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+                        arms_factory = 1
+        }
         }
 	provinces={
 		92 1685 3404 3937 3940 3945 

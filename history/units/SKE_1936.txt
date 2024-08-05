@@ -1,26 +1,19 @@
 ﻿division_template = {
 	name = "Royal Guard"
 
-	division_names_group = AFG_ARM_01
+	division_names_group = SKE_ARM_01
 
 	regiments = {
 		infantry = { x = 0 y = 0 }
 		infantry = { x = 0 y = 1 }
 		infantry = { x = 0 y = 2 }
-		cavalry = { x = 1 y = 0 }
-		cavalry = { x = 1 y = 1 }
-		cavalry = { x = 1 y = 2 }
-		cavalry = { x = 2 y = 0 }
-		cavalry = { x = 2 y = 1 }
-		cavalry = { x = 2 y = 2 }
-		light_armor = { x = 3 y = 0}
 	}
 	priority = 2
 }
 division_template = {
 	name = "Militia"				# Militia units (lowest experience, oldest equipment)
 
-	division_names_group = AFG_GAR_01
+	division_names_group = SKE_GAR_01
 
 	regiments = {
 		infantry = { x = 0 y = 0 }
@@ -37,7 +30,7 @@ units = {
 	#Royal Afghani Army
 	division = {
 		name = "Royal Afghan Household Division"
-		location = 1429 
+		location = 4195 
 		division_template = "Royal Guard"
 		start_experience_factor = 0.3
 	}
@@ -47,7 +40,7 @@ units = {
 			is_name_ordered = yes
 			name_order = 26
 		}
-		location = 1429 
+		location = 4195  
 		division_template = "Militia"
 		start_equipment_factor = 0.3
 
@@ -58,7 +51,7 @@ units = {
 			is_name_ordered = yes
 			name_order = 2
 		}
-		location = 1429 
+		location = 4195  
 		division_template = "Militia"
 		start_equipment_factor = 0.3
 
@@ -69,7 +62,7 @@ units = {
 			is_name_ordered = yes
 			name_order = 1
 		}
-		location = 1429 
+		location = 4195  
 		division_template = "Militia"
 		start_equipment_factor = 0.3
 
@@ -81,7 +74,7 @@ units = {
 			is_name_ordered = yes
 			name_order = 3
 		}
-		location = 1429 
+		location = 4195 
 		division_template = "Militia"
 		start_equipment_factor = 0.3
 
@@ -92,7 +85,7 @@ units = {
 			is_name_ordered = yes
 			name_order = 7
 		}
-		location = 1429 
+		location = 4195 
 		division_template = "Militia"
 		start_equipment_factor = 0.3
 
@@ -103,7 +96,7 @@ units = {
 			is_name_ordered = yes
 			name_order = 6
 		}
-		location = 1429 
+		location = 4195 
 		division_template = "Militia"
 		start_equipment_factor = 0.3
 
@@ -115,7 +108,7 @@ units = {
 			is_name_ordered = yes
 			name_order = 5
 		}
-		location = 1429 
+		location = 4195 
 		division_template = "Militia"
 		start_equipment_factor = 0.3
 
@@ -126,7 +119,7 @@ units = {
 			is_name_ordered = yes
 			name_order = 4
 		}
-		location = 1429 
+		location = 4195
 		division_template = "Militia"
 		start_equipment_factor = 0.3
 
@@ -139,7 +132,7 @@ instant_effect = {
 	add_equipment_production = {
 		equipment = {
 			type = infantry_equipment_0
-			creator = "AFG"
+			creator = "SKE"
 		}
 		requested_factories = 1
 		progress = 0.28

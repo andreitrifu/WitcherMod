@@ -6,6 +6,12 @@ state={
         add_core_of =RED        
         owner=RED
 	victory_points ={3960 10}
+	buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+                        arms_factory = 1
+                        dockyard = 1
+        }
         }
 	provinces={
 		1063 1224 2926 3538 3935 3942 3944 3949 3952 3955 3960 

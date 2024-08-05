@@ -4,6 +4,9 @@ state={
         history = {
         add_core_of =RED        
         owner=RED
+	buildings = {
+			infrastructure = 2
+        }
         }
 	provinces={
 		225 1509 2736 3367 3920 3951 

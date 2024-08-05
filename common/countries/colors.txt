@@ -1,4 +1,23 @@
 #reload countrycolors
+QUR = {
+	color = rgb { 195 20 20 }
+	color_ui  = rgb { 195 20 20 }
+}
+
+BAR = {
+	color = rgb { 110  15 255 }
+	color_ui  = rgb { 110  15 255 }
+}
+
+HAN = {
+	color = rgb { 190 185 30 }
+	color_ui  = rgb { 190 185 30 }
+}
+
+ZER = {
+	color = rgb { 195 5 20 }
+	color_ui  = rgb { 195 5 20 }
+}
 
 SKE = {
 	color = rgb { 128 0 255 }
