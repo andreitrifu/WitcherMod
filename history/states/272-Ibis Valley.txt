@@ -1,6 +1,10 @@
 state={
 	id=272
 	name="STATE_272"
+	history = {
+        add_core_of =VAS      
+        owner=VAS  
+        }
 	provinces={
 		435 1017 2412 3556 4755 4766 4780 
 	}

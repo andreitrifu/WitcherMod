@@ -1,4 +1,52 @@
 #reload countrycolors
+RIY = {
+	color = rgb { 123 8 170 }
+	color_ui  = rgb { 123 8 170 }
+}
+AJR = {
+	color = rgb { 231 135 146 }
+	color_ui  = rgb { 231 135 146 }
+}
+VAS = {
+	color = rgb { 8 189 233 }
+	color_ui  = rgb { 8 189 233 }
+}
+SUR = {
+	color = rgb { 225 35 20 }
+	color_ui  = rgb { 225 35 20 }
+}
+HAA = {
+	color = rgb { 165 9 35 }
+	color_ui  = rgb { 165 9 35 }
+}
+BAH = {
+	color = rgb { 160  25 255 }
+	color_ui  = rgb { 160  25 255 }
+}
+SIV = {
+	color = rgb { 94 118 171 }
+	color_ui  = rgb { 94 118 171 }
+}
+MAD = {
+	color = rgb { 155 13 25 }
+	color_ui  = rgb { 155 13 25 }
+}
+
+KIR = {
+	color = rgb { 226 139 25 }
+	color_ui  = rgb { 226 139 25 }
+}
+
+NAR = {
+	color = rgb { 45 40 190 }
+	color_ui  = rgb { 45 40 190 }
+}
+
+NAM = {
+	color = rgb { 20 180 60 }
+	color_ui  = rgb { 20 180 60 }
+}
+
 QUR = {
 	color = rgb { 195 20 20 }
 	color_ui  = rgb { 195 20 20 }

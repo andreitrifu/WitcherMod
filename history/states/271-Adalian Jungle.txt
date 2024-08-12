@@ -1,6 +1,10 @@
 state={
 	id=271
 	name="STATE_271"
+	history = {
+        add_core_of =SIV      
+        owner=SIV 
+        }
 	provinces={
 		136 165 272 425 780 1066 1503 2225 2281 2622 2967 3157 3176 3433 4881 4898 4946 
 	}

@@ -1,6 +1,10 @@
 state={
 	id=268
 	name="STATE_268"
+	history = {
+        add_core_of =MAD       
+        owner=MAD 
+        }
 	provinces={
 		391 787 958 1601 2346 3412 3463 5004 5015 5030 
 	}
